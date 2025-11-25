@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test outputs
+outputs/
+
+# Sensitive - Do not commit actual EOB PDFs or fixtures
+sources/*.pdf
+fixtures/*/original.pdf
+fixtures/*/pages/*.png
+
+# Keep fixture structure but not content
+!fixtures/.gitkeep
+!sources/.gitkeep
+
+# API keys
+.env
+*.key
+
+# Temporary files
+*.tmp
+*.log
