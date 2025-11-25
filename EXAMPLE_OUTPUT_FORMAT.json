@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "document_id": "eob_001",
+  "page_count": 2,
+  "processing_time_ms": 4200,
+
+  "markdown": "0x0001: <table data-bbox-px=\"105,258,943,450\">\n0x0002: <tr data-bbox-px=\"105,258,943,285\"><th>Date of Service</th><th>Procedure Code</th><th>Amount Charged</th><th>Contracted Amount</th><th>Patient Copay</th><th>Plan Paid</th></tr>\n0x0003: <tr data-bbox-px=\"105,286,943,340\"><td>01/15/2025</td><td>D0120</td><td>$74.40</td><td>$59.52</td><td>$0.00</td><td>$59.52</td></tr>\n0x0004: <tr data-bbox-px=\"105,341,943,395\"><td>01/15/2025</td><td>D1206</td><td>$79.00</td><td>$63.20</td><td>$0.00</td><td>$63.20</td></tr>\n0x0005: <tr data-bbox-px=\"105,396,943,450\"><td>01/15/2025</td><td>D0272</td><td>$81.00</td><td>$64.80</td><td>$0.00</td><td>$64.80</td></tr>\n0x0006: </table>",
+
+  "pages": [
+    {
+      "page_num": 1,
+      "tables": [
+        {
+          "table_idx": 0,
+          "bbox_px": "105,258,943,450",
+          "rows": 4,
+          "cols": 6,
+          "headers": ["Date of Service", "Procedure Code", "Amount Charged", "Contracted Amount", "Patient Copay", "Plan Paid"],
+          "validation": "OK",
+          "source": "deepseek"
+        }
+      ],
+      "line_range": ["0x0001", "0x0006"],
+      "validation": "OK",
+      "confidence": 0.98
+    }
+  ],
+
+  "coordinate_map": {
+    "0x0001": {
+      "content": "<table data-bbox-px=\"105,258,943,450\">",
+      "page_num": 1,
+      "bbox_px": "105,258,943,450",
+      "block_type": "table_start"
+    },
+    "0x0002": {
+      "content": "<tr data-bbox-px=\"105,258,943,285\"><th>Date of Service</th><th>Procedure Code</th><th>Amount Charged</th><th>Contracted Amount</th><th>Patient Copay</th><th>Plan Paid</th></tr>",
+      "page_num": 1,
+      "bbox_px": "105,258,943,285",
+      "block_type": "table_header"
+    },
+    "0x0003": {
+      "content": "<tr data-bbox-px=\"105,286,943,340\"><td>01/15/2025</td><td>D0120</td><td>$74.40</td><td>$59.52</td><td>$0.00</td><td>$59.52</td></tr>",
+      "page_num": 1,
+      "bbox_px": "105,286,943,340",
+      "block_type": "table_row"
+    },
+    "0x0004": {
+      "content": "<tr data-bbox-px=\"105,341,943,395\"><td>01/15/2025</td><td>D1206</td><td>$79.00</td><td>$63.20</td><td>$0.00</td><td>$63.20</td></tr>",
+      "page_num": 1,
+      "bbox_px": "105,341,943,395",
+      "block_type": "table_row"
+    },
+    "0x0005": {
+      "content": "<tr data-bbox-px=\"105,396,943,450\"><td>01/15/2025</td><td>D0272</td><td>$81.00</td><td>$64.80</td><td>$0.00</td><td>$64.80</td></tr>",
+      "page_num": 1,
+      "bbox_px": "105,396,943,450",
+      "block_type": "table_row"
+    },
+    "0x0006": {
+      "content": "</table>",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "table_end"
+    }
+  },
+
+  "alerts": [],
+  "confidence": 0.98,
+  "error": null
+}
