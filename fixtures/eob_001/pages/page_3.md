@@ -54,7 +54,7 @@ PAYMENT #: 2025102550400268 RECEIVED DATE: Aug 28, 2025 PROCESS DATE: Oct 25, 20
     <tr>
       <td>For service on Aug 27, 2025: D1351 * for Tooth#/Quar/Arch: 15 (see note HAG)</td>
       <td>109.00</td>
-      <td>87.20</td>
+      <td>57.00</td>
       <td>57.00</td>
       <td>0.00</td>
       <td>57.00</td>
@@ -88,7 +88,7 @@ HAD - Thank you for using a Total Dental Administrators contracted healthcare pr
 HAG - Thank you for using the Cigna Dental Savings Program. The amount eligible for coverage is determined by the Cigna Dental negotiated amount and the customer's benefit plan. The difference between the submitted charges and the negotiated amount is not the patient's responsibility.
 L26 - YOUR PLAN LIMITS COVERAGE TO ONCE FOR EACH TOOTH EVERY 3 YEARS.
 
-* Current Dental Terminology © American Dental Association
+* Current Dental Terminology ï¿½ American Dental Association
 
 DDAR_D_V2.0_20170801
 

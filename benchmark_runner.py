@@ -134,16 +134,17 @@ def print_report(results: dict, model_name: str):
     for eob_id, data in results.items():
         composite = data.get("composite", 0)
         all_composites.append(composite)
-        status = "⚠️ ALERT" if data["alerts"] else "✓"
+        status = "[ALERT]" if data["alerts"] else "[OK]"
         print(f"{eob_id}: {composite:.1%} {status}")
 
         if data["alerts"]:
             all_alerts.extend([f"{eob_id}/{p}" for p in data["alerts"]])
             for page in data["pages"]:
                 if page["alert"]:
-                    print(f"  └─ {page['page']}: TEDS={page['table_scores'][0]['teds_score']:.1%}, Text={page['text_score']:.1%}")
+                    teds_score = page['table_scores'][0]['teds_score'] if page['table_scores'] else 0.0
+                    print(f"  +- {page['page']}: TEDS={teds_score:.1%}, Text={page['text_score']:.1%}")
 
-    print(f"\n{'─'*60}")
+    print(f"\n{'-'*60}")
     print(f"OVERALL: {sum(all_composites)/len(all_composites):.1%}")
     print(f"Alerts: {len(all_alerts)}/{sum(len(r['pages']) for r in results.values())} pages")
 
