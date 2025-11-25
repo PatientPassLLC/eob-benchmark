@@ -1,0 +1,308 @@
+{
+  "page_num": 16,
+  "markdown": "0x026D: Page 16 of 16\n0x026E: 184375281\n0x026F: Claim details - continued\n0x0270: PATIENT NAME: KAIA WEEDA\n0x0271: SUBSCRIBER NAME: RYAN D WEEDA\n0x0272: PATIENT'S RELATIONSHIP TO SUBSCRIBER: DEPENDENT\n0x0273: PATIENT ID: U14476703\n0x0274: HEALTH CARE PROFESSIONAL NAME: ABC DENTISTRY FOR CHILDREN\n0x0275: PROVIDER NETWORK STATUS: OUT OF NETWORK HEALTH CARE PROFESSIONAL\n0x0276: ID: 522224628\n0x0277: GROUP NAME: WESTERN GOVERNORS UNIVERSITY\n0x0278: GROUP #: 3339988\n0x0279: DOCUMENT #: E252936272270\n0x027A: CLAIMANT #: 03\n0x027B: CLAIM #: 012\n0x027C: PAYMENT #: 001\n0x027D: RECEIVED DATE: Oct 20, 2025\n0x027E: PROCESSED DATE: Oct 21, 2025\n0x027F: Administrative Services Only - ERISA\n0x0280: <table>\n0x0281: <tr><th>Service</th><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED (%)</th><th>THE PLAN COVERED ($)</th></tr>\n0x0282: <tr><td>Oct 17, 2025: D1351* for Tooth#/Quad/Arch: 30 (see note MF)</td><td>109.00</td><td>0.00</td><td>97.00</td><td>0.00</td><td>97.00</td><td>0.00</td><td>100%</td><td>97.00</td></tr>\n0x0283: <tr><td>TOTALS</td><td>$819.00</td><td>$0.00</td><td>$720.00</td><td>$0.00</td><td>$720.00</td><td>$0.00</td><td></td><td>$720.00</td></tr>\n0x0284: </table>\n0x0285: <table>\n0x0286: <tr><th>Service</th><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED (%)</th><th>THE PLAN COVERED ($)</th></tr>\n0x0287: <tr><td>Amount paid by the plan</td><td>$720.00</td></tr>\n0x0288: <tr><td>Customer's responsibility</td><td>$99.00</td></tr>\n0x0289: </table>\n0x028A: Additional remarks\n0x028B: Thank you for using a Total Dental Administrators contracted healthcare professional. The amount eligible for coverage is determined by the Total Dental Administrators negotiated amount and the customer's benefit plan. The difference between the submitted charges and the negotiated amount is not the patient's responsibility.\n0x028C: Notes\n0x028D: AA - Under the provision of your Dental plan, an alternate benefit allowance has been applied. Please see your plan booklet for further explanation of this provision.\n0x028E: AB - This is the benefit allowance under the alternate benefit provision of your plan.\n0x028F: AC - Under the provision of your Dental plan, an alternate benefit allowance has been applied. Please see your plan booklet for further explanation of this provision.\n0x0290: AD - This is the benefit allowance under the alternate benefit provision of your plan.\n0x0291: DB - Benefits have been applied toward the deductible.\n0x0292: DG - These procedures are not subject to the plan deductible.\n0x0293: FI - Maximum benefits have been received for fluoride treatments.\n0x0294: ME - This procedure is not subject to the plan maximum.\n0x0295: MF - Reimbursement for this service may not exceed the allowable charges as outlined in the covered dental expenses section of your plan.\n0x0296: NT - Your plan does not provide benefits for this service.\n0x0297: Current Dental Terminology \u00a9 American Dental Association",
+  "tables": [
+    {
+      "table_idx": 0,
+      "bbox_px": null,
+      "rows": 3,
+      "cols": 9,
+      "headers": [
+        "Service",
+        "AMOUNT YOU CHARGED ($)",
+        "YOUR CONTRACTED AMOUNT ($)",
+        "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+        "PATIENT COPAY/ DEDUCTIBLE ($)",
+        "REMAINING BALANCE ($)",
+        "PATIENT COINSURANCE ($)",
+        "THE PLAN COVERED (%)",
+        "THE PLAN COVERED ($)"
+      ],
+      "validation": "OK",
+      "source": "gemini-2.5-pro"
+    },
+    {
+      "table_idx": 1,
+      "bbox_px": null,
+      "rows": 3,
+      "cols": 9,
+      "headers": [
+        "Service",
+        "AMOUNT YOU CHARGED ($)",
+        "YOUR CONTRACTED AMOUNT ($)",
+        "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+        "PATIENT COPAY/ DEDUCTIBLE ($)",
+        "REMAINING BALANCE ($)",
+        "PATIENT COINSURANCE ($)",
+        "THE PLAN COVERED (%)",
+        "THE PLAN COVERED ($)"
+      ],
+      "validation": "OK",
+      "source": "gemini-2.5-pro"
+    }
+  ],
+  "line_range": [
+    "0x026D",
+    "0x0297"
+  ],
+  "coordinate_map": {
+    "0x026D": {
+      "content": "Page 16 of 16",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x026E": {
+      "content": "184375281",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x026F": {
+      "content": "Claim details - continued",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0270": {
+      "content": "PATIENT NAME: KAIA WEEDA",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0271": {
+      "content": "SUBSCRIBER NAME: RYAN D WEEDA",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0272": {
+      "content": "PATIENT'S RELATIONSHIP TO SUBSCRIBER: DEPENDENT",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0273": {
+      "content": "PATIENT ID: U14476703",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0274": {
+      "content": "HEALTH CARE PROFESSIONAL NAME: ABC DENTISTRY FOR CHILDREN",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0275": {
+      "content": "PROVIDER NETWORK STATUS: OUT OF NETWORK HEALTH CARE PROFESSIONAL",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0276": {
+      "content": "ID: 522224628",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0277": {
+      "content": "GROUP NAME: WESTERN GOVERNORS UNIVERSITY",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0278": {
+      "content": "GROUP #: 3339988",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0279": {
+      "content": "DOCUMENT #: E252936272270",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x027A": {
+      "content": "CLAIMANT #: 03",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x027B": {
+      "content": "CLAIM #: 012",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x027C": {
+      "content": "PAYMENT #: 001",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x027D": {
+      "content": "RECEIVED DATE: Oct 20, 2025",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x027E": {
+      "content": "PROCESSED DATE: Oct 21, 2025",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x027F": {
+      "content": "Administrative Services Only - ERISA",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0280": {
+      "content": "<table>",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "table_start"
+    },
+    "0x0281": {
+      "content": "<tr><th>Service</th><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED (%)</th><th>THE PLAN COVERED ($)</th></tr>",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "table_header"
+    },
+    "0x0282": {
+      "content": "<tr><td>Oct 17, 2025: D1351* for Tooth#/Quad/Arch: 30 (see note MF)</td><td>109.00</td><td>0.00</td><td>97.00</td><td>0.00</td><td>97.00</td><td>0.00</td><td>100%</td><td>97.00</td></tr>",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "table_row"
+    },
+    "0x0283": {
+      "content": "<tr><td>TOTALS</td><td>$819.00</td><td>$0.00</td><td>$720.00</td><td>$0.00</td><td>$720.00</td><td>$0.00</td><td></td><td>$720.00</td></tr>",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "table_row"
+    },
+    "0x0284": {
+      "content": "</table>",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "table_end"
+    },
+    "0x0285": {
+      "content": "<table>",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "table_start"
+    },
+    "0x0286": {
+      "content": "<tr><th>Service</th><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED (%)</th><th>THE PLAN COVERED ($)</th></tr>",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "table_header"
+    },
+    "0x0287": {
+      "content": "<tr><td>Amount paid by the plan</td><td>$720.00</td></tr>",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "table_row"
+    },
+    "0x0288": {
+      "content": "<tr><td>Customer's responsibility</td><td>$99.00</td></tr>",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "table_row"
+    },
+    "0x0289": {
+      "content": "</table>",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "table_end"
+    },
+    "0x028A": {
+      "content": "Additional remarks",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x028B": {
+      "content": "Thank you for using a Total Dental Administrators contracted healthcare professional. The amount eligible for coverage is determined by the Total Dental Administrators negotiated amount and the customer's benefit plan. The difference between the submitted charges and the negotiated amount is not the patient's responsibility.",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x028C": {
+      "content": "Notes",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x028D": {
+      "content": "AA - Under the provision of your Dental plan, an alternate benefit allowance has been applied. Please see your plan booklet for further explanation of this provision.",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x028E": {
+      "content": "AB - This is the benefit allowance under the alternate benefit provision of your plan.",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x028F": {
+      "content": "AC - Under the provision of your Dental plan, an alternate benefit allowance has been applied. Please see your plan booklet for further explanation of this provision.",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0290": {
+      "content": "AD - This is the benefit allowance under the alternate benefit provision of your plan.",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0291": {
+      "content": "DB - Benefits have been applied toward the deductible.",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0292": {
+      "content": "DG - These procedures are not subject to the plan deductible.",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0293": {
+      "content": "FI - Maximum benefits have been received for fluoride treatments.",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0294": {
+      "content": "ME - This procedure is not subject to the plan maximum.",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0295": {
+      "content": "MF - Reimbursement for this service may not exceed the allowable charges as outlined in the covered dental expenses section of your plan.",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0296": {
+      "content": "NT - Your plan does not provide benefits for this service.",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0297": {
+      "content": "Current Dental Terminology \u00a9 American Dental Association",
+      "page_num": 16,
+      "bbox_px": null,
+      "block_type": "text"
+    }
+  }
+}

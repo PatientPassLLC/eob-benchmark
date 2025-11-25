@@ -1,0 +1,416 @@
+{
+  "page_num": 9,
+  "markdown": "0x0165: Cigna Dental\n0x0166: Cigna Health and Life Insurance Company\n0x0167: Page 9 of 16\n0x0168: 184375281\n0x0169: Explanation of dental payment\n0x016A: THIS IS NOT A BILL\n0x016B: Claim details - continued\n0x016C: PATIENT NAME: JUDE ROGERS\n0x016D: SUBSCRIBER NAME: JARED K ROGERS\n0x016E: PATIENT'S RELATIONSHIP TO SUBSCRIBER: DEPENDENT\n0x016F: PATIENT ID: U40793235\n0x0170: HEALTH CARE PROFESSIONAL NAME: ABC DENTISTRY FOR CHILDREN\n0x0171: PROVIDER NETWORK STATUS: NETWORK\n0x0172: HEALTH CARE PROFESSIONAL ID: 522224628\n0x0173: GROUP NAME: ISEC, INC\n0x0174: GROUP #: 3333347\n0x0175: DOCUMENT #: E252936227770\n0x0176: CLAIMANT #: 05\n0x0177: CLAIM #: 032\n0x0178: PAYMENT #: 001\n0x0179: RECEIVED DATE: Oct 20, 2025\n0x017A: PROCESSED DATE: Oct 21, 2025\n0x017B: Administrative Services Only - ERISA\n0x017C: <table>\n0x017D: <tr><th>Service</th><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED (%)</th><th>THE PLAN COVERED ($)</th></tr>\n0x017E: <tr><td>Oct 15, 2025: D1206* (see note ME)</td><td>79.00</td><td>63.20</td><td>63.20</td><td>0.00</td><td>63.20</td><td>0.00</td><td>100%</td><td>63.20</td></tr>\n0x017F: <tr><td>Oct 15, 2025: D0272* (see note ME)</td><td>81.00</td><td>64.80</td><td>64.80</td><td>0.00</td><td>64.80</td><td>0.00</td><td>100%</td><td>64.80</td></tr>\n0x0180: <tr><td>Oct 15, 2025: D1120* (see note ME)</td><td>130.00</td><td>104.00</td><td>104.00</td><td>0.00</td><td>104.00</td><td>0.00</td><td>100%</td><td>104.00</td></tr>\n0x0181: <tr><td>Oct 15, 2025: D0120* (see note ME)</td><td>93.00</td><td>74.40</td><td>74.40</td><td>0.00</td><td>74.40</td><td>0.00</td><td>100%</td><td>74.40</td></tr>\n0x0182: <tr><td>TOTALS</td><td>$383.00</td><td>$306.40</td><td>$306.40</td><td>$0.00</td><td>$306.40</td><td>$0.00</td><td></td><td>$306.40</td></tr>\n0x0183: </table>\n0x0184: Amount paid by the plan\n0x0185: $306.40\n0x0186: Customer's responsibility\n0x0187: $0.00\n0x0188: Additional remarks\n0x0189: Thank you for using a Total Dental Administrators contracted healthcare professional. The amount eligible for coverage is determined by the Total Dental Administrators negotiated amount and the customer's benefit plan. The difference between the submitted charges and the negotiated amount is not the patient's responsibility.\n0x018A: PATIENT NAME: LIAM SIEBERT\n0x018B: SUBSCRIBER NAME: CHRISTA SIEBERT\n0x018C: PATIENT'S RELATIONSHIP TO SUBSCRIBER: DEPENDENT\n0x018D: PATIENT ID: U77589893\n0x018E: HEALTH CARE PROFESSIONAL NAME: ABC DENTISTRY FOR CHILDREN\n0x018F: PROVIDER NETWORK STATUS: NETWORK\n0x0190: HEALTH CARE PROFESSIONAL ID: 522224628\n0x0191: GROUP NAME: BANNER HEALTH\n0x0192: GROUP #: 3337258\n0x0193: DOCUMENT #: E252936265590\n0x0194: CLAIMANT #: 04\n0x0195: CLAIM #: 006\n0x0196: PAYMENT #: 001\n0x0197: RECEIVED DATE: Oct 20, 2025\n0x0198: PROCESSED DATE: Oct 21, 2025\n0x0199: Administrative Services Only - ERISA\n0x019A: <table>\n0x019B: <tr><th>Service</th><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED (%)</th><th>THE PLAN COVERED ($)</th></tr>\n0x019C: <tr><td>Oct 15, 2025: D1206*</td><td>79.00</td><td>63.20</td><td>63.20</td><td>0.00</td><td>63.20</td><td>0.00</td><td>100%</td><td>63.20</td></tr>\n0x019D: <tr><td>Oct 15, 2025: D0272*</td><td>81.00</td><td>64.80</td><td>64.80</td><td>0.00</td><td>64.80</td><td>0.00</td><td>100%</td><td>64.80</td></tr>\n0x019E: <tr><td>Oct 15, 2025: D1120*</td><td>130.00</td><td>104.00</td><td>104.00</td><td>0.00</td><td>104.00</td><td>0.00</td><td>100%</td><td>104.00</td></tr>\n0x019F: </table>\n0x01A0: Continued\n0x01A1: Current Dental Terminology \u00a9 American Dental Association",
+  "tables": [
+    {
+      "table_idx": 0,
+      "bbox_px": null,
+      "rows": 6,
+      "cols": 9,
+      "headers": [
+        "Service",
+        "AMOUNT YOU CHARGED ($)",
+        "YOUR CONTRACTED AMOUNT ($)",
+        "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+        "PATIENT COPAY/ DEDUCTIBLE ($)",
+        "REMAINING BALANCE ($)",
+        "PATIENT COINSURANCE ($)",
+        "THE PLAN COVERED (%)",
+        "THE PLAN COVERED ($)"
+      ],
+      "validation": "OK",
+      "source": "gemini-2.5-pro"
+    },
+    {
+      "table_idx": 1,
+      "bbox_px": null,
+      "rows": 4,
+      "cols": 9,
+      "headers": [
+        "Service",
+        "AMOUNT YOU CHARGED ($)",
+        "YOUR CONTRACTED AMOUNT ($)",
+        "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+        "PATIENT COPAY/ DEDUCTIBLE ($)",
+        "REMAINING BALANCE ($)",
+        "PATIENT COINSURANCE ($)",
+        "THE PLAN COVERED (%)",
+        "THE PLAN COVERED ($)"
+      ],
+      "validation": "OK",
+      "source": "gemini-2.5-pro"
+    }
+  ],
+  "line_range": [
+    "0x0165",
+    "0x01A1"
+  ],
+  "coordinate_map": {
+    "0x0165": {
+      "content": "Cigna Dental",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0166": {
+      "content": "Cigna Health and Life Insurance Company",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0167": {
+      "content": "Page 9 of 16",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0168": {
+      "content": "184375281",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0169": {
+      "content": "Explanation of dental payment",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x016A": {
+      "content": "THIS IS NOT A BILL",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x016B": {
+      "content": "Claim details - continued",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x016C": {
+      "content": "PATIENT NAME: JUDE ROGERS",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x016D": {
+      "content": "SUBSCRIBER NAME: JARED K ROGERS",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x016E": {
+      "content": "PATIENT'S RELATIONSHIP TO SUBSCRIBER: DEPENDENT",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x016F": {
+      "content": "PATIENT ID: U40793235",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0170": {
+      "content": "HEALTH CARE PROFESSIONAL NAME: ABC DENTISTRY FOR CHILDREN",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0171": {
+      "content": "PROVIDER NETWORK STATUS: NETWORK",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0172": {
+      "content": "HEALTH CARE PROFESSIONAL ID: 522224628",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0173": {
+      "content": "GROUP NAME: ISEC, INC",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0174": {
+      "content": "GROUP #: 3333347",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0175": {
+      "content": "DOCUMENT #: E252936227770",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0176": {
+      "content": "CLAIMANT #: 05",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0177": {
+      "content": "CLAIM #: 032",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0178": {
+      "content": "PAYMENT #: 001",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0179": {
+      "content": "RECEIVED DATE: Oct 20, 2025",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x017A": {
+      "content": "PROCESSED DATE: Oct 21, 2025",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x017B": {
+      "content": "Administrative Services Only - ERISA",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x017C": {
+      "content": "<table>",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "table_start"
+    },
+    "0x017D": {
+      "content": "<tr><th>Service</th><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED (%)</th><th>THE PLAN COVERED ($)</th></tr>",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "table_header"
+    },
+    "0x017E": {
+      "content": "<tr><td>Oct 15, 2025: D1206* (see note ME)</td><td>79.00</td><td>63.20</td><td>63.20</td><td>0.00</td><td>63.20</td><td>0.00</td><td>100%</td><td>63.20</td></tr>",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "table_row"
+    },
+    "0x017F": {
+      "content": "<tr><td>Oct 15, 2025: D0272* (see note ME)</td><td>81.00</td><td>64.80</td><td>64.80</td><td>0.00</td><td>64.80</td><td>0.00</td><td>100%</td><td>64.80</td></tr>",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "table_row"
+    },
+    "0x0180": {
+      "content": "<tr><td>Oct 15, 2025: D1120* (see note ME)</td><td>130.00</td><td>104.00</td><td>104.00</td><td>0.00</td><td>104.00</td><td>0.00</td><td>100%</td><td>104.00</td></tr>",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "table_row"
+    },
+    "0x0181": {
+      "content": "<tr><td>Oct 15, 2025: D0120* (see note ME)</td><td>93.00</td><td>74.40</td><td>74.40</td><td>0.00</td><td>74.40</td><td>0.00</td><td>100%</td><td>74.40</td></tr>",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "table_row"
+    },
+    "0x0182": {
+      "content": "<tr><td>TOTALS</td><td>$383.00</td><td>$306.40</td><td>$306.40</td><td>$0.00</td><td>$306.40</td><td>$0.00</td><td></td><td>$306.40</td></tr>",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "table_row"
+    },
+    "0x0183": {
+      "content": "</table>",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "table_end"
+    },
+    "0x0184": {
+      "content": "Amount paid by the plan",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0185": {
+      "content": "$306.40",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0186": {
+      "content": "Customer's responsibility",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0187": {
+      "content": "$0.00",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0188": {
+      "content": "Additional remarks",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0189": {
+      "content": "Thank you for using a Total Dental Administrators contracted healthcare professional. The amount eligible for coverage is determined by the Total Dental Administrators negotiated amount and the customer's benefit plan. The difference between the submitted charges and the negotiated amount is not the patient's responsibility.",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x018A": {
+      "content": "PATIENT NAME: LIAM SIEBERT",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x018B": {
+      "content": "SUBSCRIBER NAME: CHRISTA SIEBERT",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x018C": {
+      "content": "PATIENT'S RELATIONSHIP TO SUBSCRIBER: DEPENDENT",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x018D": {
+      "content": "PATIENT ID: U77589893",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x018E": {
+      "content": "HEALTH CARE PROFESSIONAL NAME: ABC DENTISTRY FOR CHILDREN",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x018F": {
+      "content": "PROVIDER NETWORK STATUS: NETWORK",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0190": {
+      "content": "HEALTH CARE PROFESSIONAL ID: 522224628",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0191": {
+      "content": "GROUP NAME: BANNER HEALTH",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0192": {
+      "content": "GROUP #: 3337258",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0193": {
+      "content": "DOCUMENT #: E252936265590",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0194": {
+      "content": "CLAIMANT #: 04",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0195": {
+      "content": "CLAIM #: 006",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0196": {
+      "content": "PAYMENT #: 001",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0197": {
+      "content": "RECEIVED DATE: Oct 20, 2025",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0198": {
+      "content": "PROCESSED DATE: Oct 21, 2025",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0199": {
+      "content": "Administrative Services Only - ERISA",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x019A": {
+      "content": "<table>",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "table_start"
+    },
+    "0x019B": {
+      "content": "<tr><th>Service</th><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED (%)</th><th>THE PLAN COVERED ($)</th></tr>",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "table_header"
+    },
+    "0x019C": {
+      "content": "<tr><td>Oct 15, 2025: D1206*</td><td>79.00</td><td>63.20</td><td>63.20</td><td>0.00</td><td>63.20</td><td>0.00</td><td>100%</td><td>63.20</td></tr>",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "table_row"
+    },
+    "0x019D": {
+      "content": "<tr><td>Oct 15, 2025: D0272*</td><td>81.00</td><td>64.80</td><td>64.80</td><td>0.00</td><td>64.80</td><td>0.00</td><td>100%</td><td>64.80</td></tr>",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "table_row"
+    },
+    "0x019E": {
+      "content": "<tr><td>Oct 15, 2025: D1120*</td><td>130.00</td><td>104.00</td><td>104.00</td><td>0.00</td><td>104.00</td><td>0.00</td><td>100%</td><td>104.00</td></tr>",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "table_row"
+    },
+    "0x019F": {
+      "content": "</table>",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "table_end"
+    },
+    "0x01A0": {
+      "content": "Continued",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x01A1": {
+      "content": "Current Dental Terminology \u00a9 American Dental Association",
+      "page_num": 9,
+      "bbox_px": null,
+      "block_type": "text"
+    }
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "page_num": 1,
+  "markdown": "0x0001: Cigna Dental\n0x0002: Cigna Health and Life Insurance Company\n0x0003: P.O. BOX 188037\n0x0004: CHATTANOOGA, TN 37422\n0x0005: Page 1 of 16\n0x0006: 184375281\n0x0007: THIS IS NOT A BILL\n0x0008: Direct deposit advice\n0x0009: $6,407.68 has been deposited into your account.\n0x000A: FOR CUSTOMER SERVICE:\n0x000B: 1.800.Cigna24 (1.800.244.6224)\n0x000C: or visit www.cignaforhcp.com\n0x000D: Please have the patient ID or the employee's social security number available when calling Customer Service or writing to us.\n0x000E: ABC DENTISTRY FOR CHILDREN\n0x000F: 2557 E BASELINE RD\n0x0010: GILBERT, AZ 85234-2342\n0x0011: YOUR PAYMENT SUMMARY\n0x0012: Payment to: ABC DENTISTRY FOR CHILDREN\n0x0013: Payment amount: $6,407.68\n0x0014: Payment date: OCT 22, 2025\n0x0015: Payment number: 184375281\n0x0016: Explanation of dental payment\n0x0017: Get paid faster and manage all your Cigna claims electronically!\n0x0018: Enroll in Cigna's EFT program by logging in to CignaforHCP.com-Working with Cigna-Enroll in Electronic Funds Transfer (EFT) options or thru the Council for Affordable Quality Health Care (CAQH) website: https://solutions.CAQH.org.\n0x0019: Enroll in Zelis payments* to receive and manage your Cigna payments and multiple accounts with additional payers through EFT/ Automated Clearing House (ACH) or via a Virtual Credit Card (VCC). For more information call 1.855.496.1571 or visit www.zelispayments.com. *Fees will apply\n0x001A: If you'd like information on how much the customer has met towards their accumulators (e.g., deductibles), please visit our website at cignaforhcp.com or contact Customer Service.\n0x001B: Claim details\n0x001C: PATIENT NAME: MELINA LONGO\n0x001D: SUBSCRIBER NAME: ANTHONY R LONGO\n0x001E: PATIENT'S RELATIONSHIP TO SUBSCRIBER: DEPENDENT\n0x001F: PATIENT ID: U55179045\n0x0020: HEALTH CARE PROFESSIONAL NAME: ABC DENTISTRY FOR CHILDREN\n0x0021: PROVIDER NETWORK STATUS: NETWORK\n0x0022: HEALTH CARE PROFESSIONAL ID: 522224628\n0x0023: GROUP NAME: CIRCLE K STORES INC.\n0x0024: GROUP #: 2500396\n0x0025: DOCUMENT #: E252936264670\n0x0026: CLAIMANT #: 04\n0x0027: CLAIM #: 014\n0x0028: PAYMENT #: 001\n0x0029: RECEIVED DATE: Oct 20, 2025\n0x002A: PROCESSED DATE: Oct 21, 2025\n0x002B: <table>\n0x002C: <tr><th>Service</th><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED (%)</th><th>THE PLAN COVERED ($)</th></tr>\n0x002D: <tr><td>Sep 25, 2025: D1206*</td><td>79.00</td><td>63.20</td><td>63.20</td><td>0.00</td><td>63.20</td><td>0.00</td><td>100%</td><td>63.20</td></tr>\n0x002E: <tr><td>Sep 25, 2025: D0272*</td><td>81.00</td><td>64.80</td><td>64.80</td><td>0.00</td><td>64.80</td><td>0.00</td><td>100%</td><td>64.80</td></tr>\n0x002F: <tr><td>Sep 25, 2025: D1120*</td><td>130.00</td><td>104.00</td><td>104.00</td><td>0.00</td><td>104.00</td><td>0.00</td><td>100%</td><td>104.00</td></tr>\n0x0030: </table>\n0x0031: Continued\n0x0032: *Current Dental Terminology \u00a9 American Dental Association",
+  "tables": [
+    {
+      "table_idx": 0,
+      "bbox_px": null,
+      "rows": 4,
+      "cols": 9,
+      "headers": [
+        "Service",
+        "AMOUNT YOU CHARGED ($)",
+        "YOUR CONTRACTED AMOUNT ($)",
+        "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+        "PATIENT COPAY/ DEDUCTIBLE ($)",
+        "REMAINING BALANCE ($)",
+        "PATIENT COINSURANCE ($)",
+        "THE PLAN COVERED (%)",
+        "THE PLAN COVERED ($)"
+      ],
+      "validation": "OK",
+      "source": "gemini-2.5-pro"
+    }
+  ],
+  "line_range": [
+    "0x0001",
+    "0x0032"
+  ],
+  "coordinate_map": {
+    "0x0001": {
+      "content": "Cigna Dental",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0002": {
+      "content": "Cigna Health and Life Insurance Company",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0003": {
+      "content": "P.O. BOX 188037",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0004": {
+      "content": "CHATTANOOGA, TN 37422",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0005": {
+      "content": "Page 1 of 16",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0006": {
+      "content": "184375281",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0007": {
+      "content": "THIS IS NOT A BILL",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0008": {
+      "content": "Direct deposit advice",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0009": {
+      "content": "$6,407.68 has been deposited into your account.",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x000A": {
+      "content": "FOR CUSTOMER SERVICE:",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x000B": {
+      "content": "1.800.Cigna24 (1.800.244.6224)",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x000C": {
+      "content": "or visit www.cignaforhcp.com",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x000D": {
+      "content": "Please have the patient ID or the employee's social security number available when calling Customer Service or writing to us.",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x000E": {
+      "content": "ABC DENTISTRY FOR CHILDREN",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x000F": {
+      "content": "2557 E BASELINE RD",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0010": {
+      "content": "GILBERT, AZ 85234-2342",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0011": {
+      "content": "YOUR PAYMENT SUMMARY",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0012": {
+      "content": "Payment to: ABC DENTISTRY FOR CHILDREN",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0013": {
+      "content": "Payment amount: $6,407.68",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0014": {
+      "content": "Payment date: OCT 22, 2025",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0015": {
+      "content": "Payment number: 184375281",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0016": {
+      "content": "Explanation of dental payment",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0017": {
+      "content": "Get paid faster and manage all your Cigna claims electronically!",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0018": {
+      "content": "Enroll in Cigna's EFT program by logging in to CignaforHCP.com-Working with Cigna-Enroll in Electronic Funds Transfer (EFT) options or thru the Council for Affordable Quality Health Care (CAQH) website: https://solutions.CAQH.org.",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0019": {
+      "content": "Enroll in Zelis payments* to receive and manage your Cigna payments and multiple accounts with additional payers through EFT/ Automated Clearing House (ACH) or via a Virtual Credit Card (VCC). For more information call 1.855.496.1571 or visit www.zelispayments.com. *Fees will apply",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x001A": {
+      "content": "If you'd like information on how much the customer has met towards their accumulators (e.g., deductibles), please visit our website at cignaforhcp.com or contact Customer Service.",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x001B": {
+      "content": "Claim details",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x001C": {
+      "content": "PATIENT NAME: MELINA LONGO",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x001D": {
+      "content": "SUBSCRIBER NAME: ANTHONY R LONGO",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x001E": {
+      "content": "PATIENT'S RELATIONSHIP TO SUBSCRIBER: DEPENDENT",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x001F": {
+      "content": "PATIENT ID: U55179045",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0020": {
+      "content": "HEALTH CARE PROFESSIONAL NAME: ABC DENTISTRY FOR CHILDREN",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0021": {
+      "content": "PROVIDER NETWORK STATUS: NETWORK",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0022": {
+      "content": "HEALTH CARE PROFESSIONAL ID: 522224628",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0023": {
+      "content": "GROUP NAME: CIRCLE K STORES INC.",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0024": {
+      "content": "GROUP #: 2500396",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0025": {
+      "content": "DOCUMENT #: E252936264670",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0026": {
+      "content": "CLAIMANT #: 04",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0027": {
+      "content": "CLAIM #: 014",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0028": {
+      "content": "PAYMENT #: 001",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0029": {
+      "content": "RECEIVED DATE: Oct 20, 2025",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x002A": {
+      "content": "PROCESSED DATE: Oct 21, 2025",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x002B": {
+      "content": "<table>",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "table_start"
+    },
+    "0x002C": {
+      "content": "<tr><th>Service</th><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED (%)</th><th>THE PLAN COVERED ($)</th></tr>",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "table_header"
+    },
+    "0x002D": {
+      "content": "<tr><td>Sep 25, 2025: D1206*</td><td>79.00</td><td>63.20</td><td>63.20</td><td>0.00</td><td>63.20</td><td>0.00</td><td>100%</td><td>63.20</td></tr>",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "table_row"
+    },
+    "0x002E": {
+      "content": "<tr><td>Sep 25, 2025: D0272*</td><td>81.00</td><td>64.80</td><td>64.80</td><td>0.00</td><td>64.80</td><td>0.00</td><td>100%</td><td>64.80</td></tr>",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "table_row"
+    },
+    "0x002F": {
+      "content": "<tr><td>Sep 25, 2025: D1120*</td><td>130.00</td><td>104.00</td><td>104.00</td><td>0.00</td><td>104.00</td><td>0.00</td><td>100%</td><td>104.00</td></tr>",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "table_row"
+    },
+    "0x0030": {
+      "content": "</table>",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "table_end"
+    },
+    "0x0031": {
+      "content": "Continued",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0032": {
+      "content": "*Current Dental Terminology \u00a9 American Dental Association",
+      "page_num": 1,
+      "bbox_px": null,
+      "block_type": "text"
+    }
+  }
+}

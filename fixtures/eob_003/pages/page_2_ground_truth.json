@@ -1,0 +1,107 @@
+{
+  "page_num": 2,
+  "markdown": "0x0033: Page 2 of 16\n0x0034: 184375281\n0x0035: In the event a claim is denied...\n0x0036: Federal Right of Review \u2013 For Provider\n0x0037: If you have a contractual agreement with Cigna Dental, please refer to the procedural guidelines associated with your Cigna Dental contract, or call our office for assistance.\n0x0038: If you have questions or disagree with the payment identified on this Explanation of Benefits (EOB) statement, you may ask to have it reviewed.\n0x0039: If coverage has been denied on the basis of Medical Necessity, please refer to the participant's plan documents for the definition and requirements regarding medical necessity determinations.\n0x003A: If you are covered by more than one health benefit plan, you should file all your claims with each plan.\n0x003B: Definitions\n0x003C: Administrative Service Only - ERISA: The Employee Retirement Income Security Act of 1974 (ERISA) sets standards for private sector retirement and health plans. ERISA governs most Administrative Services Only (ASO) plans.\n0x003D: Amount You Charged: Amount charged for the services.\n0x003E: Your Contracted Amount (if present): Cigna Dental has negotiated a reduced fee for participating dentists. The negotiated amount is printed in this column if the health care professional is a Cigna Dental participating dentist, otherwise zeros will appear.\n0x003F: Amount Eligible for Coverage by the Plan: Part of the \"Amount You Charged\" or \"Your Contracted Amount\" (if present) eligible for coverage under the plan. This amount is used to help calculate how much will be paid by the plan.\n0x0040: Patient Deductible: Portion of the \"Amount Eligible for Coverage by the Plan\" that is applied toward the deductible.\n0x0041: Remaining Balance: \"Amount Eligible for Coverage by the Plan\" minus \"Patient Deductible\".\n0x0042: Plan Covered (%,$): The amount (percentage and dollar amounts, respectively) of the \"Amount Eligible for Coverage by the Plan\" paid by the plan.",
+  "tables": [],
+  "line_range": [
+    "0x0033",
+    "0x0042"
+  ],
+  "coordinate_map": {
+    "0x0033": {
+      "content": "Page 2 of 16",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0034": {
+      "content": "184375281",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0035": {
+      "content": "In the event a claim is denied...",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0036": {
+      "content": "Federal Right of Review \u2013 For Provider",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0037": {
+      "content": "If you have a contractual agreement with Cigna Dental, please refer to the procedural guidelines associated with your Cigna Dental contract, or call our office for assistance.",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0038": {
+      "content": "If you have questions or disagree with the payment identified on this Explanation of Benefits (EOB) statement, you may ask to have it reviewed.",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0039": {
+      "content": "If coverage has been denied on the basis of Medical Necessity, please refer to the participant's plan documents for the definition and requirements regarding medical necessity determinations.",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x003A": {
+      "content": "If you are covered by more than one health benefit plan, you should file all your claims with each plan.",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x003B": {
+      "content": "Definitions",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x003C": {
+      "content": "Administrative Service Only - ERISA: The Employee Retirement Income Security Act of 1974 (ERISA) sets standards for private sector retirement and health plans. ERISA governs most Administrative Services Only (ASO) plans.",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x003D": {
+      "content": "Amount You Charged: Amount charged for the services.",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x003E": {
+      "content": "Your Contracted Amount (if present): Cigna Dental has negotiated a reduced fee for participating dentists. The negotiated amount is printed in this column if the health care professional is a Cigna Dental participating dentist, otherwise zeros will appear.",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x003F": {
+      "content": "Amount Eligible for Coverage by the Plan: Part of the \"Amount You Charged\" or \"Your Contracted Amount\" (if present) eligible for coverage under the plan. This amount is used to help calculate how much will be paid by the plan.",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0040": {
+      "content": "Patient Deductible: Portion of the \"Amount Eligible for Coverage by the Plan\" that is applied toward the deductible.",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0041": {
+      "content": "Remaining Balance: \"Amount Eligible for Coverage by the Plan\" minus \"Patient Deductible\".",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    },
+    "0x0042": {
+      "content": "Plan Covered (%,$): The amount (percentage and dollar amounts, respectively) of the \"Amount Eligible for Coverage by the Plan\" paid by the plan.",
+      "page_num": 2,
+      "bbox_px": null,
+      "block_type": "text"
+    }
+  }
+}
