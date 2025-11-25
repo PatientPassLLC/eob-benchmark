@@ -98,7 +98,7 @@ def convert_model_output(input_json_path: Path, output_dir: Path, model_name: st
     for page_num in range(1, page_count + 1):
         page_md = pages_md.get(page_num, '')
         output_file = output_path / f"page_{page_num}.md"
-        output_file.write_text(page_md)
+        output_file.write_text(page_md, encoding='utf-8')
         print(f"Created: {output_file}")
 
     print(f"\nConversion complete!")

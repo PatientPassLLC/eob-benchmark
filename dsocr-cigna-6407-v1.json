@@ -1,0 +1,1122 @@
+{
+    "success": true,
+    "document_id": "cigna_6407",
+    "page_count": 16,
+    "processing_time_ms": 250535,
+    "markdown": "0x0001: <table>\n0x0002: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x0003: </table>\n0x0004: <table>\n0x0005: <tr><th>YOUR CONTRACTED</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN (S)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x0006: </table>\n0x0007: <table>\n0x0008: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x0009: </table>\n0x000A: <table>\n0x000B: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x000C: </table>\n0x000D: <table>\n0x000E: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x000F: </table>\n0x0010: <table>\n0x0011: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENTCOPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THEPLANCOVERED</th></tr>\n0x0012: </table>\n0x0013: <table>\n0x0014: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FORCOVERAGE BY THE PLAN ($)</th><th>PATIENTCOPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x0015: </table>\n0x0016: <table>\n0x0017: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x0018: </table>\n0x0019: <table>\n0x001A: <tr><th>YOUR CONTRACTED</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN (S)</th><th>PATIENTCOPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x001B: </table>\n0x001C: <table>\n0x001D: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FORCOVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x001E: </table>\n0x001F: <table>\n0x0020: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($\uff09 COINSURANCE($)</th><th>PATIENT</th><th>THE PLAN COVERED</th></tr>\n0x0021: </table>\n0x0022: <table>\n0x0023: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THEPLAN COVERED</th></tr>\n0x0024: </table>\n0x0025: <table>\n0x0026: <tr><th>YOUR</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENTCOPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x0027: </table>\n0x0028: <table>\n0x0029: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x002A: </table>\n0x002B: <table>\n0x002C: <tr><th>YOUR CONTRACTED</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT</th><th>THE PLAN COVERED</th></tr>\n0x002D: </table>\n0x002E: <table>\n0x002F: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x0030: </table>\n0x0031: <table>\n0x0032: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN (S)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x0033: </table>\n0x0034: <table>\n0x0035: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x0036: </table>\n0x0037: <table>\n0x0038: <tr><th>AMOUNT YOU</th><th>YOUR AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/</th><th>REMAINING</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED ($)</th></tr>\n0x0039: </table>\n0x003A: <table>\n0x003B: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLANCOVERED</th></tr>\n0x003C: </table>\n0x003D: <table>\n0x003E: <tr><th>YOUR</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>COINSURANCE ($)</th><th>THEPLANCOVERED</th></tr>\n0x003F: </table>\n0x0040: <table>\n0x0041: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE($\uff09 COINSURANCE($)</th><th>PATIENT</th><th>THE PLAN COVERED</th></tr>\n0x0042: </table>\n0x0043: <table>\n0x0044: <tr><th>YOUR</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENTCOPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th></th><th>THE PLAN COVERED</th></tr>\n0x0045: </table>\n0x0046: <table>\n0x0047: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN (S)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x0048: </table>\n0x0049: <table>\n0x004A: <tr><th>YOUR CONTRACTED</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT</th><th>THE PLAN COVERED</th></tr>\n0x004B: </table>\n0x004C: <table>\n0x004D: <tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>\n0x004E: </table>\n0x004F: <table>\n0x0050: <tr><th>YOUR AMOUNT YOU CONTRACTED</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING</th><th>PATIENT</th><th>THE PLAN COVERED ($)</th></tr>\n0x0051: </table>",
+    "pages": [
+      {
+        "page_num": 1,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "106,727,947,886",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          }
+        ],
+        "line_range": [
+          "0x0001",
+          "0x0003"
+        ],
+        "validation": "OK",
+        "confidence": 0.95
+      },
+      {
+        "page_num": 2,
+        "tables": [],
+        "line_range": null,
+        "validation": "OK",
+        "confidence": 0.95
+      },
+      {
+        "page_num": 3,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "106,224,944,330",
+            "rows": 0,
+            "cols": 6,
+            "headers": [
+              "YOUR CONTRACTED",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN (S)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          },
+          {
+            "table_idx": 1,
+            "bbox_px": "106,563,946,723",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          }
+        ],
+        "line_range": [
+          "0x0007",
+          "0x0009"
+        ],
+        "validation": "OK",
+        "confidence": 0.95
+      },
+      {
+        "page_num": 4,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "102,179,946,345",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          },
+          {
+            "table_idx": 1,
+            "bbox_px": "102,518,946,795",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          }
+        ],
+        "line_range": [
+          "0x000D",
+          "0x000F"
+        ],
+        "validation": "OK",
+        "confidence": 0.95
+      },
+      {
+        "page_num": 5,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "104,224,946,667",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENTCOPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THEPLANCOVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          }
+        ],
+        "line_range": [
+          "0x0010",
+          "0x0012"
+        ],
+        "validation": "OK",
+        "confidence": 0.95
+      },
+      {
+        "page_num": 6,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "104,183,946,578",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FORCOVERAGE BY THE PLAN ($)",
+              "PATIENTCOPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          },
+          {
+            "table_idx": 1,
+            "bbox_px": "107,799,947,877",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          }
+        ],
+        "line_range": [
+          "0x0016",
+          "0x0018"
+        ],
+        "validation": "OK",
+        "confidence": 0.95
+      },
+      {
+        "page_num": 7,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "106,224,946,412",
+            "rows": 0,
+            "cols": 6,
+            "headers": [
+              "YOUR CONTRACTED",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN (S)",
+              "PATIENTCOPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          },
+          {
+            "table_idx": 1,
+            "bbox_px": "104,643,947,842",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FORCOVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          }
+        ],
+        "line_range": [
+          "0x001C",
+          "0x001E"
+        ],
+        "validation": "OK",
+        "confidence": 0.95
+      },
+      {
+        "page_num": 8,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "102,180,944,345",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($\uff09 COINSURANCE($)",
+              "PATIENT",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          },
+          {
+            "table_idx": 1,
+            "bbox_px": "102,520,946,782",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THEPLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          }
+        ],
+        "line_range": [
+          "0x0022",
+          "0x0024"
+        ],
+        "validation": "OK",
+        "confidence": 0.95
+      },
+      {
+        "page_num": 9,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "106,226,946,455",
+            "rows": 0,
+            "cols": 6,
+            "headers": [
+              "YOUR",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENTCOPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          },
+          {
+            "table_idx": 1,
+            "bbox_px": "106,684,947,842",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          }
+        ],
+        "line_range": [
+          "0x0028",
+          "0x002A"
+        ],
+        "validation": "OK",
+        "confidence": 0.95
+      },
+      {
+        "page_num": 10,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "106,181,944,286",
+            "rows": 0,
+            "cols": 6,
+            "headers": [
+              "YOUR CONTRACTED",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          },
+          {
+            "table_idx": 1,
+            "bbox_px": "102,520,947,719",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          }
+        ],
+        "line_range": [
+          "0x002E",
+          "0x0030"
+        ],
+        "validation": "OK",
+        "confidence": 0.95
+      },
+      {
+        "page_num": 11,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "104,224,946,330",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN (S)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          },
+          {
+            "table_idx": 1,
+            "bbox_px": "106,563,947,723",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          }
+        ],
+        "line_range": [
+          "0x0034",
+          "0x0036"
+        ],
+        "validation": "OK",
+        "confidence": 0.95
+      },
+      {
+        "page_num": 12,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "102,179,946,345",
+            "rows": 0,
+            "cols": 6,
+            "headers": [
+              "AMOUNT YOU",
+              "YOUR AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/",
+              "REMAINING",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED ($)"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          },
+          {
+            "table_idx": 1,
+            "bbox_px": "102,520,946,752",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLANCOVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          }
+        ],
+        "line_range": [
+          "0x003A",
+          "0x003C"
+        ],
+        "validation": "OK",
+        "confidence": 0.95
+      },
+      {
+        "page_num": 13,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "106,224,946,462",
+            "rows": 0,
+            "cols": 6,
+            "headers": [
+              "YOUR",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "COINSURANCE ($)",
+              "THEPLANCOVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          },
+          {
+            "table_idx": 1,
+            "bbox_px": "107,684,947,803",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE($\uff09 COINSURANCE($)",
+              "PATIENT",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          }
+        ],
+        "line_range": [
+          "0x0040",
+          "0x0042"
+        ],
+        "validation": "OK",
+        "confidence": 0.95
+      },
+      {
+        "page_num": 14,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "106,181,944,286",
+            "rows": 0,
+            "cols": 6,
+            "headers": [
+              "YOUR",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENTCOPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          },
+          {
+            "table_idx": 1,
+            "bbox_px": "104,520,947,718",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN (S)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          }
+        ],
+        "line_range": [
+          "0x0046",
+          "0x0048"
+        ],
+        "validation": "OK",
+        "confidence": 0.95
+      },
+      {
+        "page_num": 15,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "102,222,944,390",
+            "rows": 0,
+            "cols": 6,
+            "headers": [
+              "YOUR CONTRACTED",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          },
+          {
+            "table_idx": 1,
+            "bbox_px": "102,563,947,883",
+            "rows": 0,
+            "cols": 7,
+            "headers": [
+              "AMOUNT YOU CHARGED ($)",
+              "YOUR CONTRACTED AMOUNT ($)",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING BALANCE ($)",
+              "PATIENT COINSURANCE ($)",
+              "THE PLAN COVERED"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          }
+        ],
+        "line_range": [
+          "0x004C",
+          "0x004E"
+        ],
+        "validation": "OK",
+        "confidence": 0.95
+      },
+      {
+        "page_num": 16,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "104,180,944,345",
+            "rows": 0,
+            "cols": 6,
+            "headers": [
+              "YOUR AMOUNT YOU CONTRACTED",
+              "AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)",
+              "PATIENT COPAY/ DEDUCTIBLE ($)",
+              "REMAINING",
+              "PATIENT",
+              "THE PLAN COVERED ($)"
+            ],
+            "validation": "OK",
+            "source": "mineru+tt+deepseek"
+          }
+        ],
+        "line_range": [
+          "0x004F",
+          "0x0051"
+        ],
+        "validation": "OK",
+        "confidence": 0.95
+      }
+    ],
+    "coordinate_map": {
+      "0x0001": {
+        "content": "<table>",
+        "page_num": 1,
+        "bbox_px": "106,727,947,886",
+        "block_type": "table_start"
+      },
+      "0x0002": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 1,
+        "bbox_px": "106,727,947,886",
+        "block_type": "table_header"
+      },
+      "0x0003": {
+        "content": "</table>",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0004": {
+        "content": "<table>",
+        "page_num": 3,
+        "bbox_px": "106,224,944,330",
+        "block_type": "table_start"
+      },
+      "0x0005": {
+        "content": "<tr><th>YOUR CONTRACTED</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN (S)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 3,
+        "bbox_px": "106,224,944,330",
+        "block_type": "table_header"
+      },
+      "0x0006": {
+        "content": "</table>",
+        "page_num": 3,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0007": {
+        "content": "<table>",
+        "page_num": 3,
+        "bbox_px": "106,563,946,723",
+        "block_type": "table_start"
+      },
+      "0x0008": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 3,
+        "bbox_px": "106,563,946,723",
+        "block_type": "table_header"
+      },
+      "0x0009": {
+        "content": "</table>",
+        "page_num": 3,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x000A": {
+        "content": "<table>",
+        "page_num": 4,
+        "bbox_px": "102,179,946,345",
+        "block_type": "table_start"
+      },
+      "0x000B": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 4,
+        "bbox_px": "102,179,946,345",
+        "block_type": "table_header"
+      },
+      "0x000C": {
+        "content": "</table>",
+        "page_num": 4,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x000D": {
+        "content": "<table>",
+        "page_num": 4,
+        "bbox_px": "102,518,946,795",
+        "block_type": "table_start"
+      },
+      "0x000E": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 4,
+        "bbox_px": "102,518,946,795",
+        "block_type": "table_header"
+      },
+      "0x000F": {
+        "content": "</table>",
+        "page_num": 4,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0010": {
+        "content": "<table>",
+        "page_num": 5,
+        "bbox_px": "104,224,946,667",
+        "block_type": "table_start"
+      },
+      "0x0011": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENTCOPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THEPLANCOVERED</th></tr>",
+        "page_num": 5,
+        "bbox_px": "104,224,946,667",
+        "block_type": "table_header"
+      },
+      "0x0012": {
+        "content": "</table>",
+        "page_num": 5,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0013": {
+        "content": "<table>",
+        "page_num": 6,
+        "bbox_px": "104,183,946,578",
+        "block_type": "table_start"
+      },
+      "0x0014": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FORCOVERAGE BY THE PLAN ($)</th><th>PATIENTCOPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 6,
+        "bbox_px": "104,183,946,578",
+        "block_type": "table_header"
+      },
+      "0x0015": {
+        "content": "</table>",
+        "page_num": 6,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0016": {
+        "content": "<table>",
+        "page_num": 6,
+        "bbox_px": "107,799,947,877",
+        "block_type": "table_start"
+      },
+      "0x0017": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 6,
+        "bbox_px": "107,799,947,877",
+        "block_type": "table_header"
+      },
+      "0x0018": {
+        "content": "</table>",
+        "page_num": 6,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0019": {
+        "content": "<table>",
+        "page_num": 7,
+        "bbox_px": "106,224,946,412",
+        "block_type": "table_start"
+      },
+      "0x001A": {
+        "content": "<tr><th>YOUR CONTRACTED</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN (S)</th><th>PATIENTCOPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 7,
+        "bbox_px": "106,224,946,412",
+        "block_type": "table_header"
+      },
+      "0x001B": {
+        "content": "</table>",
+        "page_num": 7,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x001C": {
+        "content": "<table>",
+        "page_num": 7,
+        "bbox_px": "104,643,947,842",
+        "block_type": "table_start"
+      },
+      "0x001D": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FORCOVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 7,
+        "bbox_px": "104,643,947,842",
+        "block_type": "table_header"
+      },
+      "0x001E": {
+        "content": "</table>",
+        "page_num": 7,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x001F": {
+        "content": "<table>",
+        "page_num": 8,
+        "bbox_px": "102,180,944,345",
+        "block_type": "table_start"
+      },
+      "0x0020": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($\uff09 COINSURANCE($)</th><th>PATIENT</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 8,
+        "bbox_px": "102,180,944,345",
+        "block_type": "table_header"
+      },
+      "0x0021": {
+        "content": "</table>",
+        "page_num": 8,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0022": {
+        "content": "<table>",
+        "page_num": 8,
+        "bbox_px": "102,520,946,782",
+        "block_type": "table_start"
+      },
+      "0x0023": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THEPLAN COVERED</th></tr>",
+        "page_num": 8,
+        "bbox_px": "102,520,946,782",
+        "block_type": "table_header"
+      },
+      "0x0024": {
+        "content": "</table>",
+        "page_num": 8,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0025": {
+        "content": "<table>",
+        "page_num": 9,
+        "bbox_px": "106,226,946,455",
+        "block_type": "table_start"
+      },
+      "0x0026": {
+        "content": "<tr><th>YOUR</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENTCOPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 9,
+        "bbox_px": "106,226,946,455",
+        "block_type": "table_header"
+      },
+      "0x0027": {
+        "content": "</table>",
+        "page_num": 9,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0028": {
+        "content": "<table>",
+        "page_num": 9,
+        "bbox_px": "106,684,947,842",
+        "block_type": "table_start"
+      },
+      "0x0029": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 9,
+        "bbox_px": "106,684,947,842",
+        "block_type": "table_header"
+      },
+      "0x002A": {
+        "content": "</table>",
+        "page_num": 9,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x002B": {
+        "content": "<table>",
+        "page_num": 10,
+        "bbox_px": "106,181,944,286",
+        "block_type": "table_start"
+      },
+      "0x002C": {
+        "content": "<tr><th>YOUR CONTRACTED</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 10,
+        "bbox_px": "106,181,944,286",
+        "block_type": "table_header"
+      },
+      "0x002D": {
+        "content": "</table>",
+        "page_num": 10,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x002E": {
+        "content": "<table>",
+        "page_num": 10,
+        "bbox_px": "102,520,947,719",
+        "block_type": "table_start"
+      },
+      "0x002F": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 10,
+        "bbox_px": "102,520,947,719",
+        "block_type": "table_header"
+      },
+      "0x0030": {
+        "content": "</table>",
+        "page_num": 10,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0031": {
+        "content": "<table>",
+        "page_num": 11,
+        "bbox_px": "104,224,946,330",
+        "block_type": "table_start"
+      },
+      "0x0032": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN (S)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 11,
+        "bbox_px": "104,224,946,330",
+        "block_type": "table_header"
+      },
+      "0x0033": {
+        "content": "</table>",
+        "page_num": 11,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0034": {
+        "content": "<table>",
+        "page_num": 11,
+        "bbox_px": "106,563,947,723",
+        "block_type": "table_start"
+      },
+      "0x0035": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 11,
+        "bbox_px": "106,563,947,723",
+        "block_type": "table_header"
+      },
+      "0x0036": {
+        "content": "</table>",
+        "page_num": 11,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0037": {
+        "content": "<table>",
+        "page_num": 12,
+        "bbox_px": "102,179,946,345",
+        "block_type": "table_start"
+      },
+      "0x0038": {
+        "content": "<tr><th>AMOUNT YOU</th><th>YOUR AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/</th><th>REMAINING</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED ($)</th></tr>",
+        "page_num": 12,
+        "bbox_px": "102,179,946,345",
+        "block_type": "table_header"
+      },
+      "0x0039": {
+        "content": "</table>",
+        "page_num": 12,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x003A": {
+        "content": "<table>",
+        "page_num": 12,
+        "bbox_px": "102,520,946,752",
+        "block_type": "table_start"
+      },
+      "0x003B": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLANCOVERED</th></tr>",
+        "page_num": 12,
+        "bbox_px": "102,520,946,752",
+        "block_type": "table_header"
+      },
+      "0x003C": {
+        "content": "</table>",
+        "page_num": 12,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x003D": {
+        "content": "<table>",
+        "page_num": 13,
+        "bbox_px": "106,224,946,462",
+        "block_type": "table_start"
+      },
+      "0x003E": {
+        "content": "<tr><th>YOUR</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>COINSURANCE ($)</th><th>THEPLANCOVERED</th></tr>",
+        "page_num": 13,
+        "bbox_px": "106,224,946,462",
+        "block_type": "table_header"
+      },
+      "0x003F": {
+        "content": "</table>",
+        "page_num": 13,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0040": {
+        "content": "<table>",
+        "page_num": 13,
+        "bbox_px": "107,684,947,803",
+        "block_type": "table_start"
+      },
+      "0x0041": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE($\uff09 COINSURANCE($)</th><th>PATIENT</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 13,
+        "bbox_px": "107,684,947,803",
+        "block_type": "table_header"
+      },
+      "0x0042": {
+        "content": "</table>",
+        "page_num": 13,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0043": {
+        "content": "<table>",
+        "page_num": 14,
+        "bbox_px": "106,181,944,286",
+        "block_type": "table_start"
+      },
+      "0x0044": {
+        "content": "<tr><th>YOUR</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENTCOPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th></th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 14,
+        "bbox_px": "106,181,944,286",
+        "block_type": "table_header"
+      },
+      "0x0045": {
+        "content": "</table>",
+        "page_num": 14,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0046": {
+        "content": "<table>",
+        "page_num": 14,
+        "bbox_px": "104,520,947,718",
+        "block_type": "table_start"
+      },
+      "0x0047": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN (S)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 14,
+        "bbox_px": "104,520,947,718",
+        "block_type": "table_header"
+      },
+      "0x0048": {
+        "content": "</table>",
+        "page_num": 14,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0049": {
+        "content": "<table>",
+        "page_num": 15,
+        "bbox_px": "102,222,944,390",
+        "block_type": "table_start"
+      },
+      "0x004A": {
+        "content": "<tr><th>YOUR CONTRACTED</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 15,
+        "bbox_px": "102,222,944,390",
+        "block_type": "table_header"
+      },
+      "0x004B": {
+        "content": "</table>",
+        "page_num": 15,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x004C": {
+        "content": "<table>",
+        "page_num": 15,
+        "bbox_px": "102,563,947,883",
+        "block_type": "table_start"
+      },
+      "0x004D": {
+        "content": "<tr><th>AMOUNT YOU CHARGED ($)</th><th>YOUR CONTRACTED AMOUNT ($)</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING BALANCE ($)</th><th>PATIENT COINSURANCE ($)</th><th>THE PLAN COVERED</th></tr>",
+        "page_num": 15,
+        "bbox_px": "102,563,947,883",
+        "block_type": "table_header"
+      },
+      "0x004E": {
+        "content": "</table>",
+        "page_num": 15,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x004F": {
+        "content": "<table>",
+        "page_num": 16,
+        "bbox_px": "104,180,944,345",
+        "block_type": "table_start"
+      },
+      "0x0050": {
+        "content": "<tr><th>YOUR AMOUNT YOU CONTRACTED</th><th>AMOUNT ELIGIBLE FOR COVERAGE BY THE PLAN ($)</th><th>PATIENT COPAY/ DEDUCTIBLE ($)</th><th>REMAINING</th><th>PATIENT</th><th>THE PLAN COVERED ($)</th></tr>",
+        "page_num": 16,
+        "bbox_px": "104,180,944,345",
+        "block_type": "table_header"
+      },
+      "0x0051": {
+        "content": "</table>",
+        "page_num": 16,
+        "bbox_px": null,
+        "block_type": "table_end"
+      }
+    },
+    "alerts": [],
+    "confidence": 0.95,
+    "error": null
+}

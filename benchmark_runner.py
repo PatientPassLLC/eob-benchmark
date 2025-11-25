@@ -81,7 +81,7 @@ def run_benchmark(model_output_dir: Path) -> dict:
         if not manifest_path.exists():
             continue
 
-        manifest = json.loads(manifest_path.read_text())
+        manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
         if not manifest.get("verified"):
             print(f"Skipping {fixture_dir.name} (not verified)")
             continue
@@ -94,16 +94,32 @@ def run_benchmark(model_output_dir: Path) -> dict:
                 continue
 
             page_name = page_md.stem
-            gt_md = page_md.read_text()
+
+            # Try UTF-8 first, fall back to latin-1 which handles all bytes
+            try:
+                gt_md = page_md.read_text(encoding='utf-8')
+            except UnicodeDecodeError:
+                gt_md = page_md.read_text(encoding='latin-1')
+
             tables_json = page_md.with_name(f"{page_name}_tables.json")
-            tables_meta = json.loads(tables_json.read_text()) if tables_json.exists() else {"tables": []}
+            if tables_json.exists():
+                try:
+                    tables_meta = json.loads(tables_json.read_text(encoding='utf-8'))
+                except UnicodeDecodeError:
+                    tables_meta = json.loads(tables_json.read_text(encoding='latin-1'))
+            else:
+                tables_meta = {"tables": []}
 
             # Load model output
             model_page = model_output_dir / eob_id / "pages" / page_md.name
             if not model_page.exists():
                 print(f"  Missing: {model_page}")
                 continue
-            pred_md = model_page.read_text()
+
+            try:
+                pred_md = model_page.read_text(encoding='utf-8')
+            except UnicodeDecodeError:
+                pred_md = model_page.read_text(encoding='latin-1')
 
             # Score
             page_result = score_page(pred_md, gt_md, tables_meta)
@@ -120,6 +136,47 @@ def run_benchmark(model_output_dir: Path) -> dict:
         results[eob_id] = eob_results
 
     return results
+
+
+def save_scores_json(results: dict, model_output_dir: Path, model_name: str):
+    """Save detailed scores to JSON files in each EOB directory."""
+    for eob_id, eob_data in results.items():
+        eob_dir = model_output_dir / eob_id
+        scores_file = eob_dir / "scores.json"
+
+        # Build score summary
+        score_data = {
+            "model_name": model_name,
+            "eob_id": eob_id,
+            "overall_score": eob_data.get("composite", 0.0),
+            "passed": eob_data.get("composite", 0.0) >= ALERT_THRESHOLD,
+            "alert_threshold": ALERT_THRESHOLD,
+            "pages": []
+        }
+
+        for page in eob_data["pages"]:
+            page_score = {
+                "page": page["page"],
+                "composite_score": page["composite_score"],
+                "text_score": page["text_score"],
+                "passed": not page["alert"],
+                "tables": []
+            }
+
+            # Add table-level scores
+            for i, table_score in enumerate(page.get("table_scores", [])):
+                page_score["tables"].append({
+                    "table_index": table_score["table_idx"],
+                    "teds_score": table_score["teds_score"],
+                    "structure_score": page.get("structure_scores", [])[i] if i < len(page.get("structure_scores", [])) else None,
+                    "expected_columns": table_score.get("expected_columns")
+                })
+
+            score_data["pages"].append(page_score)
+
+        # Write to file
+        scores_file.write_text(json.dumps(score_data, indent=2), encoding='utf-8')
+        print(f"Saved scores: {scores_file}")
 
 
 def print_report(results: dict, model_name: str):
@@ -161,5 +218,9 @@ if __name__ == "__main__":
         print("Example: python benchmark_runner.py ./outputs/deepseek 'DeepSeek-OCR'")
         sys.exit(1)
 
-    results = run_benchmark(Path(sys.argv[1]))
-    print_report(results, sys.argv[2])
+    model_output_dir = Path(sys.argv[1])
+    model_name = sys.argv[2]
+
+    results = run_benchmark(model_output_dir)
+    save_scores_json(results, model_output_dir, model_name)
+    print_report(results, model_name)
