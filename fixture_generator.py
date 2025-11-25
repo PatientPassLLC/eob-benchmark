@@ -10,13 +10,18 @@ import re
 from pathlib import Path
 from pdf2image import convert_from_path
 import google.generativeai as genai
+from dotenv import load_dotenv
+
+# Load .env file
+load_dotenv()
 
 # Config
 DPI = 200
 FIXTURES_DIR = Path("fixtures")
 SOURCES_DIR = Path("sources")
+POPPLER_PATH = Path.home() / "AppData/Local/Microsoft/WinGet/Packages/oschwartz10612.Poppler_Microsoft.Winget.Source_8wekyb3d8bbwe/poppler-25.07.0/Library/bin"
 
-genai.configure(api_key=os.environ.get("GOOGLE_API_KEY"))
+genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 model = genai.GenerativeModel("gemini-2.5-pro-preview-05-06")
 
 PROMPT = """Extract ALL text from this EOB page. Output as markdown with:
@@ -58,7 +63,7 @@ def process_eob(pdf_name: str, eob_id: str):
     shutil.copy(pdf_path, eob_dir / "original.pdf")
 
     # Render pages
-    images = convert_from_path(pdf_path, dpi=DPI)
+    images = convert_from_path(pdf_path, dpi=DPI, poppler_path=str(POPPLER_PATH))
     all_md = []
 
     for i, img in enumerate(images, 1):
@@ -76,7 +81,7 @@ def process_eob(pdf_name: str, eob_id: str):
         md_content = response.text
 
         # Save draft markdown
-        with open(md_path, "w") as f:
+        with open(md_path, "w", encoding="utf-8") as f:
             f.write(md_content)
 
         # Generate table metadata
@@ -87,7 +92,7 @@ def process_eob(pdf_name: str, eob_id: str):
         all_md.append(f"<!-- Page {i} -->\n{md_content}")
 
     # Combine all pages
-    with open(eob_dir / "full_document.md", "w") as f:
+    with open(eob_dir / "full_document.md", "w", encoding="utf-8") as f:
         f.write("\n\n---\n\n".join(all_md))
 
     # Create manifest

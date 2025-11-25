@@ -1,0 +1,1 @@
+I am sorry, but the image you provided is completely blank. I cannot extract any text from it.

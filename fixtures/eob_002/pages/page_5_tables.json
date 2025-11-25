@@ -1,0 +1,14 @@
+{
+  "tables": [
+    {
+      "table_idx": 0,
+      "row_count": 10,
+      "column_count": 9
+    },
+    {
+      "table_idx": 1,
+      "row_count": 5,
+      "column_count": 9
+    }
+  ]
+}
