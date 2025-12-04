@@ -44,7 +44,7 @@ def split_by_pages(markdown: str, coordinate_map: dict, page_count: int) -> dict
     return {page: '\n'.join(lines) for page, lines in page_content.items()}
 
 
-def convert_model_output(input_json_path: Path, output_dir: Path, model_name: str):
+def convert_model_output(input_json_path: Path, output_dir: Path, model_name: str, fixture_id: str = None):
     """
     Convert model output JSON to benchmark format.
 
@@ -52,6 +52,7 @@ def convert_model_output(input_json_path: Path, output_dir: Path, model_name: st
         input_json_path: Path to model output JSON file
         output_dir: Base output directory (e.g., outputs/my_model)
         model_name: Display name for the model
+        fixture_id: Optional fixture ID to use (e.g., 'eob_003'). If not provided, auto-detect.
     """
 
     # Load model output
@@ -63,29 +64,41 @@ def convert_model_output(input_json_path: Path, output_dir: Path, model_name: st
     markdown = data['markdown']
     coordinate_map = data.get('coordinate_map', {})
 
-    # Determine fixture ID from document_id
-    # "CIGNA _ 57.00_rotation_fix" -> look for matching fixture
+    # Determine fixture ID
     fixtures_dir = Path("fixtures")
-    fixture_id = None
 
-    for fixture_dir in fixtures_dir.iterdir():
-        if not fixture_dir.is_dir():
-            continue
-        manifest_path = fixture_dir / "manifest.json"
-        if manifest_path.exists():
-            manifest = json.loads(manifest_path.read_text())
-            # Match by source filename
-            if document_id in manifest.get('source_file', ''):
-                fixture_id = fixture_dir.name
-                break
+    if fixture_id:
+        # User specified fixture ID - validate it exists
+        if not (fixtures_dir / fixture_id).exists():
+            print(f"Error: Fixture '{fixture_id}' not found in fixtures/")
+            print(f"Available fixtures:")
+            for f in sorted(fixtures_dir.iterdir()):
+                if f.is_dir():
+                    print(f"  - {f.name}")
+            import sys
+            sys.exit(1)
+        print(f"Using specified fixture: {fixture_id}")
+    else:
+        # Auto-detect from document_id
+        # "CIGNA _ 57.00_rotation_fix" -> look for matching fixture
+        for fixture_dir in sorted(fixtures_dir.iterdir()):
+            if not fixture_dir.is_dir():
+                continue
+            manifest_path = fixture_dir / "manifest.json"
+            if manifest_path.exists():
+                manifest = json.loads(manifest_path.read_text())
+                # Match by source filename
+                if document_id in manifest.get('source_file', ''):
+                    fixture_id = fixture_dir.name
+                    break
 
-    if not fixture_id:
-        print(f"Warning: Could not find matching fixture for '{document_id}'")
-        print(f"Using 'eob_001' as default. Available fixtures:")
-        for f in fixtures_dir.iterdir():
-            if f.is_dir():
-                print(f"  - {f.name}")
-        fixture_id = "eob_001"
+        if not fixture_id:
+            print(f"Warning: Could not find matching fixture for '{document_id}'")
+            print(f"Using 'eob_001' as default. Available fixtures:")
+            for f in sorted(fixtures_dir.iterdir()):
+                if f.is_dir():
+                    print(f"  - {f.name}")
+            fixture_id = "eob_001"
 
     # Create output directory structure
     output_path = output_dir / fixture_id / "pages"
@@ -111,7 +124,7 @@ def convert_model_output(input_json_path: Path, output_dir: Path, model_name: st
     if manifest_path.exists():
         manifest = json.loads(manifest_path.read_text())
         if not manifest.get('verified'):
-            print(f"\n⚠️  Warning: {fixture_id} is not verified yet.")
+            print(f"\n[WARNING] {fixture_id} is not verified yet.")
             print(f"   Set 'verified': true in {manifest_path}")
 
 
@@ -119,17 +132,19 @@ if __name__ == "__main__":
     import sys
 
     if len(sys.argv) < 4:
-        print("Usage: python convert_model_output.py <input.json> <output_dir> <model_name>")
+        print("Usage: python convert_model_output.py <input.json> <output_dir> <model_name> [fixture_id]")
         print("\nExample:")
         print("  python convert_model_output.py model_output.json outputs/deepseek 'DeepSeek-OCR'")
+        print("  python convert_model_output.py model_output.json outputs/deepseek 'DeepSeek-OCR' eob_003")
         sys.exit(1)
 
     input_path = Path(sys.argv[1])
     output_dir = Path(sys.argv[2])
     model_name = sys.argv[3]
+    fixture_id = sys.argv[4] if len(sys.argv) > 4 else None
 
     if not input_path.exists():
         print(f"Error: Input file not found: {input_path}")
         sys.exit(1)
 
-    convert_model_output(input_path, output_dir, model_name)
+    convert_model_output(input_path, output_dir, model_name, fixture_id)

@@ -1,0 +1,1194 @@
+{
+    "success": true,
+    "document_id": "tessina_DD_fail",
+    "page_count": 8,
+    "processing_time_ms": 108271,
+    "markdown": "0x0001: P.O. Box 997330 Sacramento, CA 95899-7330\n0x0002: JAMES BRYAN BONNY DDS PC 245 W STATE ROAD 198 # 6 198 SALEM UT 84653-5608\n0x0003: \u25ba Direct Deposit number: 202511090031040 JAMES BRYAN BONNY DDS PC Tax ID number: XXXXXXX4972\n0x0004: A dentist may not bill or collect from a member any charges in connection with a non-covered dental service unless an executed financial responsibility form has been obtained from the member or the member\u2019s legal representative prior to performing the services.\n0x0005: Have you advised your patient about reasonable post-surgical pain expectations and management?\n0x0006: In the management of post-surgical discomfort, the use of non-opioid pain relievers may be sufficient.\n0x0007: Consider the use of short duration opioid prescriptions when there is a need to manage pain relief for a limited time basis.\n0x0008: According to the Center for Disease Control and prevention in 2016, 42,249 people died from an opioid overdose.\n0x0009: November 12, 2025\n0x000A: Plan administered by: Delta Dental Insurance Company P.O. Box 1809 Alpharetta, GA 30023-1809\n0x000B: CAN WE HELP? Visit our website: deltadentalins.com Call Customer Service: 800-521-2651 TDD/TTY 888-373-3582 Mon to Fri 8:00 a.m. to 8:00 p.m. Eastern Time\n0x000C: Your claims summary\n0x000D: <table>\n0x000E: <tr><th>PROCEDURE NUMBER AND TYPE OF SERVICE</th><th>SUBMITTED FEE ($)</th><th>ACCEPTED FEE ($)</th><th>MAXIMUM ALLOWANCE ($)</th><th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th><th>PAID BY MEDICAL PLAN ($)</th><th>CONTRACT SAVINGS LEVEL</th><th>PATIENT PAYS ($)</th><th>DELTA DENTAL PAYS ($)</th></tr>\n0x000F: <tr><td>Total amount of claims</td><td>$2,688.00</td></tr>\n0x0010: <tr><td>Amount patient pays</td><td>$244.20</td></tr>\n0x0011: <tr><td>Interest paid</td><td>$0.00</td></tr>\n0x0012: </table>\n0x0013: Please review this statement carefully The \"Amount Delta Dental pays\" shown above has been processed via Direct Deposit (electronic funds transfer) to your bank of record.\n0x0014: Please note the amounts shown as payable by Delta Dental and the patient are in accordance with the terms of the patient's dental plan and the terms of our agreement with you, if you are a Delta Dental participating or contracting dental provider.\n0x0015: Summary of claim information\n0x0016: <table>\n0x0017: <tr><th>PROCEDURE NUMBER AND TYPE OF SERVICE</th><th>SUBMITTED FEE ($)</th><th>ACCEPTED FEE ($)</th><th>MAXIMUM ALLOWANCE ($)</th><th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th><th>PAID BY MEDICAL PLAN ($)</th><th>CONTRACT SAVINGS LEVEL</th><th>PATIENT PAYS ($)</th><th>DELTA DENTAL PAYS ($)</th></tr>\n0x0018: <tr><td>PATIENT NAME</td><td>MEMBER ID NUMBER</td><td>DATE OF SERVICE</td><td>CLAIM NUMBER</td><td>PATIENT PAYS ($)</td><td>DELTA DENTAL PAYS ($)</td></tr>\n0x0019: <tr><td>DEBORAH S ANDERSON</td><td>5490441966-02</td><td>October 28, 2025</td><td>20253076127612</td><td>0.00</td><td>77.00</td></tr>\n0x001A: <tr><td>ADAM R BELLISTON</td><td>1216773784-03</td><td>October 31, 2025</td><td>20253106105010</td><td>87.00</td><td>148.00</td></tr>\n0x001B: <tr><td>ADAM R BELLISTON</td><td>1216773784-03</td><td>October 24, 2025</td><td>20253106116978</td><td>18.00</td><td>162.00</td></tr>\n0x001C: <tr><td>BRYAN BLEAK</td><td>1233892213-01</td><td>November 5, 2025</td><td>20253106114917</td><td>43.20</td><td>172.80</td></tr>\n0x001D: <tr><td>BRYAN BLEAK</td><td>1233892213-01</td><td>November 5, 2025</td><td>20253106136415</td><td>25.00</td><td>52.00</td></tr>\n0x001E: <tr><td>JOEY FACKRELL</td><td>1240614759-01</td><td>October 28, 2025</td><td>20253076094639</td><td>0.00</td><td>98.00</td></tr>\n0x001F: </table>\n0x0020: Claim details\n0x0021: Patient: DEBORAH S ANDERSON Relationship: Spouse Date of birth: July 24, 1958 Group name: COLSA CORP Group number: 23363-01001\n0x0022: Primary member: JOSEPH A ANDERSON Member ID numbers: 5490441966-02\n0x0023: # 1 Claim number: 20253076127612\n0x0024: <table>\n  <tr>\n    <th>PROCEDURE NUMBER AND TYPE OF SERVICE</th>\n    <th>SUBMITTED FEE ($)</th>\n    <th>ACCEPTED FEE ($)</th>\n    <th>MAXIMUM CONTRACT ALLOWANCE ($)</th>\n    <th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th>\n    <th>PAID BY ANOTHER PLAN ($)</th>\n    <th>CONTRACT BENEFIT LEVEL</th>\n    <th>PATIENT PAYS ($)</th>\n    <th>DELTA DENTAL PAYS ($)</th>\n  </tr>\n  <tr>\n    <td>Date of service: October 28, 2025<br>Treatment type: Diagnostic<br>(D0120) PERIODIC ORAL EVALUATION - ESTABLISHED PATIENT</td>\n    <td>72.00</td>\n    <td>25.00</td>\n    <td>25.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>25.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td>Date of service: October 28, 2025<br>Treatment type: Preventative<br>(D1110) PROPHYLAXIS (CLEANING) - ADULT</td>\n    <td>105.00</td>\n    <td>52.00</td>\n    <td>52.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>52.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td>Claim total for DEBORAH S ANDERSON</td>\n    <td>177.00</td>\n    <td>77.00</td>\n    <td>77.00</td>\n    <td>0.00</td>\n    <td>0.00</td>\n    <td></td>\n    <td>0.00</td>\n    <td>77.00</td>\n  </tr>\n</table>\n0x0025: Patient: ADAM R BELLISTON Relationship: Dependent Date of birth: August 31, 2002 Group name: NU SKIN INTERNATIONAL, INC. Group number: 21495-00001\n0x0026: Primary member: RUSSELL B BELLISTON Member ID numbers: 1216773784-03\n0x0027: # 1 Claim number: 20253106105010\n0x0028: Your claims statement Date: November 12, 2025\n0x0029: Patient: ADAM R BELLISTON (continued)\n0x002A: <table>\n0x002B: <tr><th>PROCEDURE NUMBER AND TYPE OF SERVICE</th><th>SUBMITTED FEE ($)</th><th>ACCEPTED FEE ($)</th><th>MAXIMUM ALLOWANCE ($)</th><th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th><th>PAID BY MEDICAL PLAN ($)</th><th>CONTRACT SAVINGS LEVEL</th><th>PATIENT PAYS ($)</th><th>DELTA DENTAL PAYS ($)</th></tr>\n0x002C: <tr><td>PROCEDURE NUMBER AND TYPE OF SERVICE</td><td>SUBMITTED FEE ($)</td><td>ACCEPTED FEE ($)</td><td>MAXIMUM CONTRACT ALLOWANCE ($)</td><td>AMOUNT APPLIED TO DEDUCTIBLE ($)</td><td>PAID BY ANOTHER PLAN ($)</td><td>CONTRACT BENEFIT LEVEL</td><td>PATIENT PAYS ($)</td><td>DELTA DENTAL PAYS ($)</td></tr>\n0x002D: <tr><td>Date of service: October 31, 2025Treatment type: Restorative(D2393) RESIN-BASED COMPOSITE - THREE SURFACES, POSTERIOR TOOTHTooth: 30 Surface(s): D, M, O</td><td>298.00</td><td>127.00</td><td>127.00</td><td>50.00</td><td>--</td><td>80%</td><td>65.40</td><td>61.60</td></tr>\n0x002E: <tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x002F: <tr><td>Date of service: October 31, 2025Treatment type: Restorative(D2392) RESIN-BASED COMPOSITE - TWO SURFACES, POSTERIOR TOOTHTooth: 31 Surface(s): M, O</td><td>238.00</td><td>108.00</td><td>108.00</td><td>0.00</td><td>--</td><td>80%</td><td>21.60</td><td>86.40</td></tr>\n0x0030: <tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0031: <tr><td>Claim total for ADAM R BELLISTON</td><td>536.00</td><td>235.00</td><td>235.00</td><td>50.00</td><td>0.00</td><td></td><td>87.00</td><td>148.00</td></tr>\n0x0032: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0033: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0034: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0035: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0036: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0037: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0038: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0039: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x003A: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x003B: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x003C: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x003D: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x003E: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x003F: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0040: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0041: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0042: </table>\n0x0043: # 2 Claim number: 20253106116978\n0x0044: <table>\n  <tr>\n    <th>PROCEDURE NUMBER AND TYPE OF SERVICE</th>\n    <th>SUBMITTED FEE ($)</th>\n    <th>ACCEPTED FEE ($)</th>\n    <th>MAXIMUM CONTRACT ALLOWANCE ($)</th>\n    <th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th>\n    <th>PAID BY ANOTHER PLAN ($)</th>\n    <th>CONTRACT BENEFIT LEVEL</th>\n    <th>PATIENT PAYS ($)</th>\n    <th>DELTA DENTAL PAYS ($)</th>\n  </tr>\n  <tr>\n    <td>Date of service: October 24, 2025<br>Treatment type: Diagnostic<br>(D0120) PERIODIC ORAL EVALUATION - ESTABLISHED PATIENT</td>\n    <td>72.00</td>\n    <td>25.00</td>\n    <td>25.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>25.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td>Date of service: October 24, 2025<br>Treatment type: Preventative<br>(D1110) PROPHYLAXIS (CLEANING) - ADULT</td>\n    <td>105.00</td>\n    <td>52.00</td>\n    <td>52.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>52.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td>Date of service: October 24, 2025<br>Treatment type: Diagnostic<br>(D0330) PANORAMIC RADIOGRAPHIC IMAGE</td>\n    <td>133.00</td>\n    <td>54.00</td>\n    <td>54.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>54.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td>Date of service: October 24, 2025<br>Treatment type: Diagnostic<br>(D0274) BITEWINGS - FOUR RADIOGRAPHIC IMAGES</td>\n    <td>80.00</td>\n    <td>31.00</td>\n    <td>31.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>31.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td>Date of service: October 24, 2025<br>Treatment type: Preventative<br>(D1208) TOPICAL APPLICATION OF FLUORIDE - EXCLUDING VARNISH</td>\n    <td>62.00</td>\n    <td>18.00</td>\n    <td>18.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>18.00</td>\n    <td>0.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td><b>NOTE:</b> (757) The patient exceeds the program's age limit for this procedure. Therefore, the patient is responsible for the amount indicated as \"Patient Pays.\"</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td><b>Claim total for ADAM R BELLISTON</b></td>\n    <td>452.00</td>\n    <td>180.00</td>\n    <td>180.00</td>\n    <td>0.00</td>\n    <td>0.00</td>\n    <td></td>\n    <td>18.00</td>\n    <td>162.00</td>\n  </tr>\n</table>\n0x0045: Patient: BRYAN BLEAK Relationship: Primary Member Date of birth: January 31, 1979 Group name: SMALL BUSINESS PROGRAM 20663-03015 Group number: 20663-03015\n0x0046: Primary member: BRYAN BLEAK Member ID numbers: 1233892213-01\n0x0047: # 1 Claim number: 20253106114917\n0x0048: <table>\n0x0049: <tr><th>PROCEDURE NUMBER AND TYPE OF SERVICE</th><th>SUBMITTED FEE ($)</th><th>ACCEPTED FEE ($)</th><th>MAXIMUM ALLOWANCE ($)</th><th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th><th>PAID BY MEDICAL PLAN ($)</th><th>CONTRACT SAVINGS LEVEL</th><th>PATIENT PAYS ($)</th><th>DELTA DENTAL PAYS ($)</th></tr>\n0x004A: <tr><td>PROCEDURE NUMBER AND TYPE OF SERVICE</td><td>SUBMITTED FEE ($)</td><td>ACCEPTED FEE ($)</td><td>MAXIMUM CONTRACT ALLOWANCE ($)</td><td>AMOUNT APPLIED TO DEDUCTIBLE ($)</td><td>PAID BY ANOTHER PLAN ($)</td><td>CONTRACT BENEFIT LEVEL</td><td>PATIENT PAYS ($)</td><td>DELTA DENTAL PAYS ($)</td></tr>\n0x004B: <tr><td>Date of service: November 5, 2025Treatment type: Restorative(D2392) RESIN-BASED COMPOSITE - TWO SURFACES, POSTERIOR TOOTHTooth: 02 Surface(s): M, O</td><td>238.00</td><td>108.00</td><td>108.00</td><td>0.00</td><td>--</td><td>80%</td><td>21.60</td><td>86.40</td></tr>\n0x004C: <tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x004D: <tr><td>Date of service: November 5, 2025Treatment type: Restorative(D2392) RESIN-BASED COMPOSITE - TWO SURFACES, POSTERIOR TOOTHTooth: 15 Surface(s): L, O</td><td>238.00</td><td>108.00</td><td>108.00</td><td>0.00</td><td>--</td><td>80%</td><td>21.60</td><td>86.40</td></tr>\n0x004E: <tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x004F: <tr><td>Claim total for BRYAN BLEAK</td><td>476.00</td><td>216.00</td><td>216.00</td><td>0.00</td><td>0.00</td><td></td><td>43.20</td><td>172.80</td></tr>\n0x0050: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0051: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0052: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0053: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0054: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0055: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0056: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0057: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0058: </table>\n0x0059: # 2 Claim number: 20253106136415\n0x005A: <table>\n  <tr>\n    <th>PROCEDURE NUMBER AND TYPE OF SERVICE</th>\n    <th>SUBMITTED FEE ($)</th>\n    <th>ACCEPTED FEE ($)</th>\n    <th>MAXIMUM CONTRACT ALLOWANCE ($)</th>\n    <th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th>\n    <th>PAID BY ANOTHER PLAN ($)</th>\n    <th>CONTRACT BENEFIT LEVEL</th>\n    <th>PATIENT PAYS ($)</th>\n    <th>DELTA DENTAL PAYS ($)</th>\n  </tr>\n  <tr>\n    <td>Date of service: November 5, 2025<br>Treatment type: Diagnostic<br>(D0120) PERIODIC ORAL EVALUATION - ESTABLISHED PATIENT</td>\n    <td>72.00</td>\n    <td>25.00</td>\n    <td>25.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>25.00</td>\n    <td>0.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>\u25b6 NOTE: (777) This service has exceeded the program's frequency limitation within a calendar year. Therefore, the patient is responsible for the amount indicated as \"Patient Pays.\" You may use our online Provider Tools for eligibility and benefits information, including remaining maximums and deductibles.</td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>Date of service: November 5, 2025<br>Treatment type: Preventative<br>(D1110) PROPHYLAXIS (CLEANING) - ADULT</td>\n    <td>105.00</td>\n    <td>52.00</td>\n    <td>52.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>52.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td><b>Claim total for BRYAN BLEAK</b></td>\n    <td>177.00</td>\n    <td>77.00</td>\n    <td>77.00</td>\n    <td>0.00</td>\n    <td>0.00</td>\n    <td></td>\n    <td>25.00</td>\n    <td>52.00</td>\n  </tr>\n</table>\n0x005B: Patient: JOEY FACKRELL Relationship: Primary Member Date of birth: July 30, 1999 Group name: CRH AMERICAS, INC. Group number: 16112-30000\n0x005C: Primary member: JOEY FACKRELL Member ID numbers: 1240614759-01\n0x005D: # 1 Claim number: 20253076094639\n0x005E: Your claims statement Date: November 12, 2025\n0x005F: Patient: JOEY FACKRELL (continued)\n0x0060: <table>\n0x0061: <tr><th>PROCEDURE NUMBER AND TYPE OF SERVICE</th><th>SUBMITTED FEE ($)</th><th>ACCEPTED FEE ($)</th><th>MAXIMUM ALLOWANCE ($)</th><th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th><th>PAID BY MEDICAL PLAN ($)</th><th>CONTRACT SAVINGS LEVEL</th><th>PATIENT PAYS ($)</th><th>DELTA DENTAL PAYS ($)</th></tr>\n0x0062: <tr><td>PROCEDURE NUMBER AND TYPE OF SERVICE</td><td>SUBMITTED FEE ($)</td><td>ACCEPTED FEE ($)</td><td>MAXIMUM CONTRACT ALLOWANCE ($)</td><td>AMOUNT APPLIED TO DEDUCTIBLE ($)</td><td>PAID BY ANOTHER PLAN ($)</td><td>CONTRACT BENEFIT LEVEL</td><td>PATIENT PAYS ($)</td><td>DELTA DENTAL PAYS ($)</td></tr>\n0x0063: <tr><td>Date of service: October 28, 2025Treatment type: Diagnostic(D0220) INTRAORAL - PERIAPICAL FIRST RADIOGRAPHIC IMAGE</td><td>31.00</td><td>14.00</td><td>14.00</td><td>0.00</td><td>--</td><td>100%</td><td>0.00</td><td>14.00</td></tr>\n0x0064: <tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0065: <tr><td>Date of service: October 28, 2025Treatment type: Diagnostic(D0230) INTRAORAL - PERIAPICAL EACH ADDITIONAL RADIOGRAPHIC IMAGE</td><td>26.00</td><td>13.00</td><td>13.00</td><td>0.00</td><td>--</td><td>100%</td><td>0.00</td><td>13.00</td></tr>\n0x0066: <tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0067: <tr><td>Date of service: October 28, 2025Treatment type: Diagnostic(D0274) BITEWINGS - FOUR RADIOGRAPHIC IMAGES</td><td>80.00</td><td>31.00</td><td>31.00</td><td>0.00</td><td>--</td><td>100%</td><td>0.00</td><td>31.00</td></tr>\n0x0068: <tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0069: <tr><td>Date of service: October 28, 2025Treatment type: Diagnostic(D0150) COMPREHENSIVE ORAL EVALUATION - NEW OR ESTABLISHED PATIENT</td><td>86.00</td><td>40.00</td><td>40.00</td><td>0.00</td><td>--</td><td>100%</td><td>0.00</td><td>40.00</td></tr>\n0x006A: <tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x006B: <tr><td>Claim total for JOEY FACKRELL</td><td>223.00</td><td>98.00</td><td>98.00</td><td>0.00</td><td>0.00</td><td></td><td>0.00</td><td>98.00</td></tr>\n0x006C: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x006D: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x006E: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x006F: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0070: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0071: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0072: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0073: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0074: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0075: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0076: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0077: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0078: <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0079: </table>\n0x007A: Patient: AMANDA M HARPER Relationship: Spouse Primary member: TODD HARPER Date of birth: September 3, 1986 Member ID numbers: 1251758229-02 Group name: QUALTRICS, LLC Group number: 21307-00001\n0x007B: #1 Claim number: 20253076092157\n0x007C: <table>\n  <tr>\n    <th>PROCEDURE NUMBER AND TYPE OF SERVICE</th>\n    <th>SUBMITTED FEE ($)</th>\n    <th>ACCEPTED FEE ($)</th>\n    <th>MAXIMUM CONTRACT ALLOWANCE ($)</th>\n    <th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th>\n    <th>PAID BY ANOTHER PLAN ($)</th>\n    <th>CONTRACT BENEFIT LEVEL</th>\n    <th>PATIENT PAYS ($)</th>\n    <th>DELTA DENTAL PAYS ($)</th>\n  </tr>\n  <tr>\n    <td>Date of service: October 24, 2025<br>Treatment type: Diagnostic<br>(D0120) PERIODIC ORAL EVALUATION - ESTABLISHED PATIENT</td>\n    <td>72.00</td>\n    <td>25.00</td>\n    <td>25.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>25.00</td>\n  </tr>\n  <tr>\n    <td colspan=\"9\">Treating provider: JAMES B BONNY</td>\n  </tr>\n  <tr>\n    <td>Date of service: October 24, 2025<br>Treatment type: Preventive<br>(D1110) PROPHYLAXIS (CLEANING) - ADULT</td>\n    <td>105.00</td>\n    <td>52.00</td>\n    <td>52.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>52.00</td>\n  </tr>\n  <tr>\n    <td colspan=\"9\">Treating provider: JAMES B BONNY</td>\n  </tr>\n</table>\n0x007D: Patient: AMANDA M HARPER (continued)\n0x007E: Date of service: October 24, 2025 Treatment type: Diagnostic (D0274) BITEWINGS - FOUR RADIOGRAPHIC IMAGES 80.00 31.00 31.00 0.00 -- 100% 0.00 31.00 Treating provider: JAMES B BONNY\n0x007F: Date of service: October 24, 2025 Treatment type: Diagnostic (D0220) INTRAORAL - PERIAPICAL FIRST RADIOGRAPHIC IMAGE 31.00 14.00 14.00 0.00 -- 100% 0.00 14.00 Treating provider: JAMES B BONNY\n0x0080: Date of service: October 24, 2025 Treatment type: Diagnostic (D0230) INTRAORAL - PERIAPICAL EACH ADDITIONAL RADIOGRAPHIC IMAGE 26.00 13.00 13.00 0.00 -- 100% 0.00 13.00 Treating provider: JAMES B BONNY\n0x0081: Date of service: October 24, 2025 Treatment type: Preventative (D1208) TOPICAL APPLICATION OF FLUORIDE - EXCLUDING VARNISH 62.00 18.00 18.00 0.00 -- 100% 0.00 18.00 Treating provider: JAMES B BONNY\n0x0082: Claim total for AMANDA M HARPER 376.00 153.00 153.00 0.00 0.00 0.00 153.00\n0x0083: Patient: BRIANNA PRINSTER Relationship: Spouse Date of birth: June 13, 1995 Group name: UTAH COUNTY GOVERNMENT Group number: 22569-00001 Primary member: GABRIELA A PRINSTER Member ID numbers: 1241810667-02\n0x0084: #1 Claim number: 20253076114298\n0x0085: Date of service: October 30, 2025 Treatment type: Diagnostic (D0150) COMPREHENSIVE ORAL EVALUATION - NEW OR ESTABLISHED PATIENT 86.00 40.00 40.00 0.00 -- 100% 40.00 0.00 Treating provider: JAMES B BONNY\n0x0086: \u25b6 NOTE: (777) This service has exceeded the program's frequency limitation within a calendar year. Therefore, the patient is responsible for the amount indicated as \"Patient Pays.\" You may use our online Provider Tools for eligibility and benefits information, including remaining maximums and deductibles.\n0x0087: Date of service: October 30, 2025 Treatment type: Diagnostic (D0274) BITEWINGS - FOUR RADIOGRAPHIC IMAGES 80.00 31.00 31.00 0.00 -- 100% 31.00 0.00 Treating provider: JAMES B BONNY\n0x0088: \u25b6 NOTE: (777) This service has exceeded the program's frequency limitation within a calendar year. Therefore, the patient is responsible for the amount indicated as \"Patient Pays.\" You may use our online Provider Tools for eligibility and benefits information, including remaining maximums and deductibles.\n0x0089: Your claims statement Date: November 12, 2025\n0x008A: Patient: BRIANNA PRINSTER (continued)\n0x008B: <table>\n0x008C: <tr><th>PROCEDURE NUMBER AND TYPE OF SERVICE</th><th>SUBMITTED FEE ($)</th><th>ACCEPTED FEE ($)</th><th>MAXIMUM ALLOWANCE ($)</th><th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th><th>PAID BY MEDICAL PLAN ($)</th><th>CONTRACT SAVINGS LEVEL</th><th>PATIENT PAYS ($)</th><th>DELTA DENTAL PAYS ($)</th></tr>\n0x008D: <tr><td>PROCEDURE NUMBER AND TYPE OF SERVICE</td><td>SUBMITTED FEE ($)</td><td>ACCEPTED FEE ($)</td><td>MAXIMUM CONTRACT ALLOWANCE ($)</td><td>AMOUNT APPLIED TO DEDUCTIBLE ($)</td><td>PAID BY ANOTHER PLAN ($)</td><td>CONTRACT BENEFIT LEVEL</td><td>PATIENT PAYS ($)</td><td>DELTA DENTAL PAYS ($)</td></tr>\n0x008E: <tr><td>Date of service: October 30, 2025Treatment type: Preventative(D1110) PROPHYLAXIS (CLEANING) - ADULT</td><td>105.00</td><td>52.00</td><td>52.00</td><td>0.00</td><td>--</td><td>100%</td><td>0.00</td><td>52.00</td></tr>\n0x008F: <tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n0x0090: <tr><td>Claim total for BRIANNA PRINSTER</td><td>271.00</td><td>123.00</td><td>123.00</td><td>0.00</td><td>0.00</td><td></td><td>71.00</td><td>52.00</td></tr>\n0x0091: </table>\n0x0092: Delta Dental takes fraud seriously. Learn how you can protect your practice from fraud at deltadentalins.com/dentists.\n0x0093: <table>\n0x0094: <tr><th>PROCEDURE NUMBER AND TYPE OF SERVICE</th><th>SUBMITTED FEE ($)</th><th>ACCEPTED FEE ($)</th><th>MAXIMUM ALLOWANCE ($)</th><th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th><th>PAID BY MEDICAL PLAN ($)</th><th>CONTRACT SAVINGS LEVEL</th><th>PATIENT PAYS ($)</th><th>DELTA DENTAL PAYS ($)</th></tr>\n0x0095: <tr><td></td><td></td></tr>\n0x0096: <tr><td></td><td></td></tr>\n0x0097: <tr><td></td><td></td></tr>\n0x0098: <tr><td></td><td></td></tr>\n0x0099: <tr><td></td><td></td></tr>\n0x009A: <tr><td></td><td></td></tr>\n0x009B: <tr><td></td><td></td></tr>\n0x009C: <tr><td></td><td></td></tr>\n0x009D: <tr><td></td><td></td></tr>\n0x009E: <tr><td></td><td></td></tr>\n0x009F: <tr><td></td><td></td></tr>\n0x00A0: <tr><td></td><td></td></tr>\n0x00A1: <tr><td></td><td></td></tr>\n0x00A2: </table>",
+    "pages": [
+      {
+        "page_num": 1,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "769,837,1639,1006",
+            "rows": 3,
+            "cols": 9,
+            "headers": [
+              "PROCEDURE NUMBER AND TYPE OF SERVICE",
+              "SUBMITTED FEE ($)",
+              "ACCEPTED FEE ($)",
+              "MAXIMUM ALLOWANCE ($)",
+              "AMOUNT APPLIED TO DEDUCTIBLE ($)",
+              "PAID BY MEDICAL PLAN ($)",
+              "CONTRACT SAVINGS LEVEL",
+              "PATIENT PAYS ($)",
+              "DELTA DENTAL PAYS ($)"
+            ],
+            "source": "gemini+olm+tt",
+            "confidence": 0.9995591044425964
+          }
+        ],
+        "validation": "OK",
+        "confidence": 1.0
+      },
+      {
+        "page_num": 2,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "124,357,1627,726",
+            "rows": 7,
+            "cols": 9,
+            "headers": [
+              "PROCEDURE NUMBER AND TYPE OF SERVICE",
+              "SUBMITTED FEE ($)",
+              "ACCEPTED FEE ($)",
+              "MAXIMUM ALLOWANCE ($)",
+              "AMOUNT APPLIED TO DEDUCTIBLE ($)",
+              "PAID BY MEDICAL PLAN ($)",
+              "CONTRACT SAVINGS LEVEL",
+              "PATIENT PAYS ($)",
+              "DELTA DENTAL PAYS ($)"
+            ],
+            "source": "gemini+olm+tt",
+            "confidence": 0.9993346333503723
+          }
+        ],
+        "validation": "OK",
+        "confidence": 1.0
+      },
+      {
+        "page_num": 3,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "125,380,1624,1740",
+            "rows": 22,
+            "cols": 9,
+            "headers": [
+              "PROCEDURE NUMBER AND TYPE OF SERVICE",
+              "SUBMITTED FEE ($)",
+              "ACCEPTED FEE ($)",
+              "MAXIMUM ALLOWANCE ($)",
+              "AMOUNT APPLIED TO DEDUCTIBLE ($)",
+              "PAID BY MEDICAL PLAN ($)",
+              "CONTRACT SAVINGS LEVEL",
+              "PATIENT PAYS ($)",
+              "DELTA DENTAL PAYS ($)"
+            ],
+            "source": "gemini+olm+tt",
+            "confidence": 0.996183454990387
+          }
+        ],
+        "validation": "OK",
+        "confidence": 0.19
+      },
+      {
+        "page_num": 4,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "130,543,1620,1340",
+            "rows": 14,
+            "cols": 9,
+            "headers": [
+              "PROCEDURE NUMBER AND TYPE OF SERVICE",
+              "SUBMITTED FEE ($)",
+              "ACCEPTED FEE ($)",
+              "MAXIMUM ALLOWANCE ($)",
+              "AMOUNT APPLIED TO DEDUCTIBLE ($)",
+              "PAID BY MEDICAL PLAN ($)",
+              "CONTRACT SAVINGS LEVEL",
+              "PATIENT PAYS ($)",
+              "DELTA DENTAL PAYS ($)"
+            ],
+            "source": "gemini+olm+tt",
+            "confidence": 0.8097696900367737
+          }
+        ],
+        "validation": "OK",
+        "confidence": 0.29
+      },
+      {
+        "page_num": 5,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "125,387,1622,1802",
+            "rows": 23,
+            "cols": 9,
+            "headers": [
+              "PROCEDURE NUMBER AND TYPE OF SERVICE",
+              "SUBMITTED FEE ($)",
+              "ACCEPTED FEE ($)",
+              "MAXIMUM ALLOWANCE ($)",
+              "AMOUNT APPLIED TO DEDUCTIBLE ($)",
+              "PAID BY MEDICAL PLAN ($)",
+              "CONTRACT SAVINGS LEVEL",
+              "PATIENT PAYS ($)",
+              "DELTA DENTAL PAYS ($)"
+            ],
+            "source": "gemini+olm+tt",
+            "confidence": 0.9983091354370117
+          }
+        ],
+        "validation": "OK",
+        "confidence": 0.28
+      },
+      {
+        "page_num": 6,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "124,328,1623,1764",
+            "rows": 16,
+            "cols": 9,
+            "headers": [
+              "PROCEDURE NUMBER AND TYPE OF SERVICE",
+              "SUBMITTED FEE ($)",
+              "ACCEPTED FEE ($)",
+              "MAXIMUM ALLOWANCE ($)",
+              "AMOUNT APPLIED TO DEDUCTIBLE ($)",
+              "PAID BY MEDICAL PLAN ($)",
+              "CONTRACT SAVINGS LEVEL",
+              "PATIENT PAYS ($)",
+              "DELTA DENTAL PAYS ($)"
+            ],
+            "source": "gemini+olm+tt",
+            "confidence": 0.9975334405899048
+          }
+        ],
+        "validation": "OK",
+        "confidence": 0.0
+      },
+      {
+        "page_num": 7,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "127,378,1624,587",
+            "rows": 4,
+            "cols": 9,
+            "headers": [
+              "PROCEDURE NUMBER AND TYPE OF SERVICE",
+              "SUBMITTED FEE ($)",
+              "ACCEPTED FEE ($)",
+              "MAXIMUM ALLOWANCE ($)",
+              "AMOUNT APPLIED TO DEDUCTIBLE ($)",
+              "PAID BY MEDICAL PLAN ($)",
+              "CONTRACT SAVINGS LEVEL",
+              "PATIENT PAYS ($)",
+              "DELTA DENTAL PAYS ($)"
+            ],
+            "source": "gemini+olm+tt",
+            "confidence": 0.9966520667076111
+          }
+        ],
+        "validation": "OK",
+        "confidence": 0.75
+      },
+      {
+        "page_num": 8,
+        "tables": [
+          {
+            "table_idx": 0,
+            "bbox_px": "312,639,1187,2030",
+            "rows": 13,
+            "cols": 9,
+            "headers": [
+              "PROCEDURE NUMBER AND TYPE OF SERVICE",
+              "SUBMITTED FEE ($)",
+              "ACCEPTED FEE ($)",
+              "MAXIMUM ALLOWANCE ($)",
+              "AMOUNT APPLIED TO DEDUCTIBLE ($)",
+              "PAID BY MEDICAL PLAN ($)",
+              "CONTRACT SAVINGS LEVEL",
+              "PATIENT PAYS ($)",
+              "DELTA DENTAL PAYS ($)"
+            ],
+            "source": "gemini+olm+tt",
+            "confidence": 0.8858197927474976
+          }
+        ],
+        "validation": "OK",
+        "confidence": 0.0
+      }
+    ],
+    "coordinate_map": {
+      "0x0001": {
+        "content": "P.O. Box 997330 Sacramento, CA 95899-7330",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0002": {
+        "content": "JAMES BRYAN BONNY DDS PC 245 W STATE ROAD 198 # 6 198 SALEM UT 84653-5608",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0003": {
+        "content": "\u25ba Direct Deposit number: 202511090031040 JAMES BRYAN BONNY DDS PC Tax ID number: XXXXXXX4972",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0004": {
+        "content": "A dentist may not bill or collect from a member any charges in connection with a non-covered dental service unless an executed financial responsibility form has been obtained from the member or the member\u2019s legal representative prior to performing the services.",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0005": {
+        "content": "Have you advised your patient about reasonable post-surgical pain expectations and management?",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0006": {
+        "content": "In the management of post-surgical discomfort, the use of non-opioid pain relievers may be sufficient.",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0007": {
+        "content": "Consider the use of short duration opioid prescriptions when there is a need to manage pain relief for a limited time basis.",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0008": {
+        "content": "According to the Center for Disease Control and prevention in 2016, 42,249 people died from an opioid overdose.",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0009": {
+        "content": "November 12, 2025",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x000A": {
+        "content": "Plan administered by: Delta Dental Insurance Company P.O. Box 1809 Alpharetta, GA 30023-1809",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x000B": {
+        "content": "CAN WE HELP? Visit our website: deltadentalins.com Call Customer Service: 800-521-2651 TDD/TTY 888-373-3582 Mon to Fri 8:00 a.m. to 8:00 p.m. Eastern Time",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x000C": {
+        "content": "Your claims summary",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x000D": {
+        "content": "<table>",
+        "page_num": 1,
+        "bbox_px": "769,837,1639,1006",
+        "block_type": "table_start"
+      },
+      "0x000E": {
+        "content": "<tr><th>PROCEDURE NUMBER AND TYPE OF SERVICE</th><th>SUBMITTED FEE ($)</th><th>ACCEPTED FEE ($)</th><th>MAXIMUM ALLOWANCE ($)</th><th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th><th>PAID BY MEDICAL PLAN ($)</th><th>CONTRACT SAVINGS LEVEL</th><th>PATIENT PAYS ($)</th><th>DELTA DENTAL PAYS ($)</th></tr>",
+        "page_num": 1,
+        "bbox_px": "769,837,1639,1006",
+        "block_type": "table_header"
+      },
+      "0x000F": {
+        "content": "<tr><td>Total amount of claims</td><td>$2,688.00</td></tr>",
+        "page_num": 1,
+        "bbox_px": "806,880,1597,923",
+        "block_type": "table_row"
+      },
+      "0x0010": {
+        "content": "<tr><td>Amount patient pays</td><td>$244.20</td></tr>",
+        "page_num": 1,
+        "bbox_px": "806,921,1598,951",
+        "block_type": "table_row"
+      },
+      "0x0011": {
+        "content": "<tr><td>Interest paid</td><td>$0.00</td></tr>",
+        "page_num": 1,
+        "bbox_px": "806,936,1596,972",
+        "block_type": "table_row"
+      },
+      "0x0012": {
+        "content": "</table>",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0013": {
+        "content": "Please review this statement carefully The \"Amount Delta Dental pays\" shown above has been processed via Direct Deposit (electronic funds transfer) to your bank of record.",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0014": {
+        "content": "Please note the amounts shown as payable by Delta Dental and the patient are in accordance with the terms of the patient's dental plan and the terms of our agreement with you, if you are a Delta Dental participating or contracting dental provider.",
+        "page_num": 1,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0015": {
+        "content": "Summary of claim information",
+        "page_num": 2,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0016": {
+        "content": "<table>",
+        "page_num": 2,
+        "bbox_px": "124,357,1627,726",
+        "block_type": "table_start"
+      },
+      "0x0017": {
+        "content": "<tr><th>PROCEDURE NUMBER AND TYPE OF SERVICE</th><th>SUBMITTED FEE ($)</th><th>ACCEPTED FEE ($)</th><th>MAXIMUM ALLOWANCE ($)</th><th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th><th>PAID BY MEDICAL PLAN ($)</th><th>CONTRACT SAVINGS LEVEL</th><th>PATIENT PAYS ($)</th><th>DELTA DENTAL PAYS ($)</th></tr>",
+        "page_num": 2,
+        "bbox_px": "124,357,1627,726",
+        "block_type": "table_header"
+      },
+      "0x0018": {
+        "content": "<tr><td>PATIENT NAME</td><td>MEMBER ID NUMBER</td><td>DATE OF SERVICE</td><td>CLAIM NUMBER</td><td>PATIENT PAYS ($)</td><td>DELTA DENTAL PAYS ($)</td></tr>",
+        "page_num": 2,
+        "bbox_px": "170,415,1574,446",
+        "block_type": "table_row"
+      },
+      "0x0019": {
+        "content": "<tr><td>DEBORAH S ANDERSON</td><td>5490441966-02</td><td>October 28, 2025</td><td>20253076127612</td><td>0.00</td><td>77.00</td></tr>",
+        "page_num": 2,
+        "bbox_px": "170,447,1574,486",
+        "block_type": "table_row"
+      },
+      "0x001A": {
+        "content": "<tr><td>ADAM R BELLISTON</td><td>1216773784-03</td><td>October 31, 2025</td><td>20253106105010</td><td>87.00</td><td>148.00</td></tr>",
+        "page_num": 2,
+        "bbox_px": "170,486,1574,527",
+        "block_type": "table_row"
+      },
+      "0x001B": {
+        "content": "<tr><td>ADAM R BELLISTON</td><td>1216773784-03</td><td>October 24, 2025</td><td>20253106116978</td><td>18.00</td><td>162.00</td></tr>",
+        "page_num": 2,
+        "bbox_px": "169,529,1574,570",
+        "block_type": "table_row"
+      },
+      "0x001C": {
+        "content": "<tr><td>BRYAN BLEAK</td><td>1233892213-01</td><td>November 5, 2025</td><td>20253106114917</td><td>43.20</td><td>172.80</td></tr>",
+        "page_num": 2,
+        "bbox_px": "169,571,1574,612",
+        "block_type": "table_row"
+      },
+      "0x001D": {
+        "content": "<tr><td>BRYAN BLEAK</td><td>1233892213-01</td><td>November 5, 2025</td><td>20253106136415</td><td>25.00</td><td>52.00</td></tr>",
+        "page_num": 2,
+        "bbox_px": "170,611,1574,652",
+        "block_type": "table_row"
+      },
+      "0x001E": {
+        "content": "<tr><td>JOEY FACKRELL</td><td>1240614759-01</td><td>October 28, 2025</td><td>20253076094639</td><td>0.00</td><td>98.00</td></tr>",
+        "page_num": 2,
+        "bbox_px": "170,651,1573,687",
+        "block_type": "table_row"
+      },
+      "0x001F": {
+        "content": "</table>",
+        "page_num": 2,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0020": {
+        "content": "Claim details",
+        "page_num": 2,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0021": {
+        "content": "Patient: DEBORAH S ANDERSON Relationship: Spouse Date of birth: July 24, 1958 Group name: COLSA CORP Group number: 23363-01001",
+        "page_num": 2,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0022": {
+        "content": "Primary member: JOSEPH A ANDERSON Member ID numbers: 5490441966-02",
+        "page_num": 2,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0023": {
+        "content": "# 1 Claim number: 20253076127612",
+        "page_num": 2,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0024": {
+        "content": "<table>\n  <tr>\n    <th>PROCEDURE NUMBER AND TYPE OF SERVICE</th>\n    <th>SUBMITTED FEE ($)</th>\n    <th>ACCEPTED FEE ($)</th>\n    <th>MAXIMUM CONTRACT ALLOWANCE ($)</th>\n    <th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th>\n    <th>PAID BY ANOTHER PLAN ($)</th>\n    <th>CONTRACT BENEFIT LEVEL</th>\n    <th>PATIENT PAYS ($)</th>\n    <th>DELTA DENTAL PAYS ($)</th>\n  </tr>\n  <tr>\n    <td>Date of service: October 28, 2025<br>Treatment type: Diagnostic<br>(D0120) PERIODIC ORAL EVALUATION - ESTABLISHED PATIENT</td>\n    <td>72.00</td>\n    <td>25.00</td>\n    <td>25.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>25.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td>Date of service: October 28, 2025<br>Treatment type: Preventative<br>(D1110) PROPHYLAXIS (CLEANING) - ADULT</td>\n    <td>105.00</td>\n    <td>52.00</td>\n    <td>52.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>52.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td>Claim total for DEBORAH S ANDERSON</td>\n    <td>177.00</td>\n    <td>77.00</td>\n    <td>77.00</td>\n    <td>0.00</td>\n    <td>0.00</td>\n    <td></td>\n    <td>0.00</td>\n    <td>77.00</td>\n  </tr>\n</table>",
+        "page_num": 2,
+        "bbox_px": null,
+        "block_type": "table_raw"
+      },
+      "0x0025": {
+        "content": "Patient: ADAM R BELLISTON Relationship: Dependent Date of birth: August 31, 2002 Group name: NU SKIN INTERNATIONAL, INC. Group number: 21495-00001",
+        "page_num": 2,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0026": {
+        "content": "Primary member: RUSSELL B BELLISTON Member ID numbers: 1216773784-03",
+        "page_num": 2,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0027": {
+        "content": "# 1 Claim number: 20253106105010",
+        "page_num": 2,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0028": {
+        "content": "Your claims statement Date: November 12, 2025",
+        "page_num": 3,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0029": {
+        "content": "Patient: ADAM R BELLISTON (continued)",
+        "page_num": 3,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x002A": {
+        "content": "<table>",
+        "page_num": 3,
+        "bbox_px": "125,380,1624,1740",
+        "block_type": "table_start"
+      },
+      "0x002B": {
+        "content": "<tr><th>PROCEDURE NUMBER AND TYPE OF SERVICE</th><th>SUBMITTED FEE ($)</th><th>ACCEPTED FEE ($)</th><th>MAXIMUM ALLOWANCE ($)</th><th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th><th>PAID BY MEDICAL PLAN ($)</th><th>CONTRACT SAVINGS LEVEL</th><th>PATIENT PAYS ($)</th><th>DELTA DENTAL PAYS ($)</th></tr>",
+        "page_num": 3,
+        "bbox_px": "125,380,1624,1740",
+        "block_type": "table_header"
+      },
+      "0x002C": {
+        "content": "<tr><td>PROCEDURE NUMBER AND TYPE OF SERVICE</td><td>SUBMITTED FEE ($)</td><td>ACCEPTED FEE ($)</td><td>MAXIMUM CONTRACT ALLOWANCE ($)</td><td>AMOUNT APPLIED TO DEDUCTIBLE ($)</td><td>PAID BY ANOTHER PLAN ($)</td><td>CONTRACT BENEFIT LEVEL</td><td>PATIENT PAYS ($)</td><td>DELTA DENTAL PAYS ($)</td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,412,1582,454",
+        "block_type": "table_row"
+      },
+      "0x002D": {
+        "content": "<tr><td>Date of service: October 31, 2025Treatment type: Restorative(D2393) RESIN-BASED COMPOSITE - THREE SURFACES, POSTERIOR TOOTHTooth: 30 Surface(s): D, M, O</td><td>298.00</td><td>127.00</td><td>127.00</td><td>50.00</td><td>--</td><td>80%</td><td>65.40</td><td>61.60</td></tr>",
+        "page_num": 3,
+        "bbox_px": "163,453,1582,500",
+        "block_type": "table_row"
+      },
+      "0x002E": {
+        "content": "<tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "165,501,1579,540",
+        "block_type": "table_row"
+      },
+      "0x002F": {
+        "content": "<tr><td>Date of service: October 31, 2025Treatment type: Restorative(D2392) RESIN-BASED COMPOSITE - TWO SURFACES, POSTERIOR TOOTHTooth: 31 Surface(s): M, O</td><td>238.00</td><td>108.00</td><td>108.00</td><td>0.00</td><td>--</td><td>80%</td><td>21.60</td><td>86.40</td></tr>",
+        "page_num": 3,
+        "bbox_px": "163,505,1580,565",
+        "block_type": "table_row"
+      },
+      "0x0030": {
+        "content": "<tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "163,560,1580,626",
+        "block_type": "table_row"
+      },
+      "0x0031": {
+        "content": "<tr><td>Claim total for ADAM R BELLISTON</td><td>536.00</td><td>235.00</td><td>235.00</td><td>50.00</td><td>0.00</td><td></td><td>87.00</td><td>148.00</td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,624,1580,691",
+        "block_type": "table_row"
+      },
+      "0x0032": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "163,657,1580,726",
+        "block_type": "table_row"
+      },
+      "0x0033": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,706,1581,778",
+        "block_type": "table_row"
+      },
+      "0x0034": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "163,718,1580,785",
+        "block_type": "table_row"
+      },
+      "0x0035": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,754,1581,830",
+        "block_type": "table_row"
+      },
+      "0x0036": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,807,1581,874",
+        "block_type": "table_row"
+      },
+      "0x0037": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,874,1581,945",
+        "block_type": "table_row"
+      },
+      "0x0038": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,930,1580,992",
+        "block_type": "table_row"
+      },
+      "0x0039": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,967,1581,1011",
+        "block_type": "table_row"
+      },
+      "0x003A": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,1021,1581,1076",
+        "block_type": "table_row"
+      },
+      "0x003B": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,1057,1581,1119",
+        "block_type": "table_row"
+      },
+      "0x003C": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,1097,1581,1181",
+        "block_type": "table_row"
+      },
+      "0x003D": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,1158,1581,1274",
+        "block_type": "table_row"
+      },
+      "0x003E": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,1218,1580,1346",
+        "block_type": "table_row"
+      },
+      "0x003F": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,1319,1580,1452",
+        "block_type": "table_row"
+      },
+      "0x0040": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,1444,1579,1541",
+        "block_type": "table_row"
+      },
+      "0x0041": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 3,
+        "bbox_px": "162,1532,1581,1692",
+        "block_type": "table_row"
+      },
+      "0x0042": {
+        "content": "</table>",
+        "page_num": 3,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0043": {
+        "content": "# 2 Claim number: 20253106116978",
+        "page_num": 3,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0044": {
+        "content": "<table>\n  <tr>\n    <th>PROCEDURE NUMBER AND TYPE OF SERVICE</th>\n    <th>SUBMITTED FEE ($)</th>\n    <th>ACCEPTED FEE ($)</th>\n    <th>MAXIMUM CONTRACT ALLOWANCE ($)</th>\n    <th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th>\n    <th>PAID BY ANOTHER PLAN ($)</th>\n    <th>CONTRACT BENEFIT LEVEL</th>\n    <th>PATIENT PAYS ($)</th>\n    <th>DELTA DENTAL PAYS ($)</th>\n  </tr>\n  <tr>\n    <td>Date of service: October 24, 2025<br>Treatment type: Diagnostic<br>(D0120) PERIODIC ORAL EVALUATION - ESTABLISHED PATIENT</td>\n    <td>72.00</td>\n    <td>25.00</td>\n    <td>25.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>25.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td>Date of service: October 24, 2025<br>Treatment type: Preventative<br>(D1110) PROPHYLAXIS (CLEANING) - ADULT</td>\n    <td>105.00</td>\n    <td>52.00</td>\n    <td>52.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>52.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td>Date of service: October 24, 2025<br>Treatment type: Diagnostic<br>(D0330) PANORAMIC RADIOGRAPHIC IMAGE</td>\n    <td>133.00</td>\n    <td>54.00</td>\n    <td>54.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>54.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td>Date of service: October 24, 2025<br>Treatment type: Diagnostic<br>(D0274) BITEWINGS - FOUR RADIOGRAPHIC IMAGES</td>\n    <td>80.00</td>\n    <td>31.00</td>\n    <td>31.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>31.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td>Date of service: October 24, 2025<br>Treatment type: Preventative<br>(D1208) TOPICAL APPLICATION OF FLUORIDE - EXCLUDING VARNISH</td>\n    <td>62.00</td>\n    <td>18.00</td>\n    <td>18.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>18.00</td>\n    <td>0.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td><b>NOTE:</b> (757) The patient exceeds the program's age limit for this procedure. Therefore, the patient is responsible for the amount indicated as \"Patient Pays.\"</td>\n    <td colspan=\"8\"></td>\n  </tr>\n  <tr>\n    <td><b>Claim total for ADAM R BELLISTON</b></td>\n    <td>452.00</td>\n    <td>180.00</td>\n    <td>180.00</td>\n    <td>0.00</td>\n    <td>0.00</td>\n    <td></td>\n    <td>18.00</td>\n    <td>162.00</td>\n  </tr>\n</table>",
+        "page_num": 3,
+        "bbox_px": null,
+        "block_type": "table_raw"
+      },
+      "0x0045": {
+        "content": "Patient: BRYAN BLEAK Relationship: Primary Member Date of birth: January 31, 1979 Group name: SMALL BUSINESS PROGRAM 20663-03015 Group number: 20663-03015",
+        "page_num": 4,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0046": {
+        "content": "Primary member: BRYAN BLEAK Member ID numbers: 1233892213-01",
+        "page_num": 4,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0047": {
+        "content": "# 1 Claim number: 20253106114917",
+        "page_num": 4,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0048": {
+        "content": "<table>",
+        "page_num": 4,
+        "bbox_px": "130,543,1620,1340",
+        "block_type": "table_start"
+      },
+      "0x0049": {
+        "content": "<tr><th>PROCEDURE NUMBER AND TYPE OF SERVICE</th><th>SUBMITTED FEE ($)</th><th>ACCEPTED FEE ($)</th><th>MAXIMUM ALLOWANCE ($)</th><th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th><th>PAID BY MEDICAL PLAN ($)</th><th>CONTRACT SAVINGS LEVEL</th><th>PATIENT PAYS ($)</th><th>DELTA DENTAL PAYS ($)</th></tr>",
+        "page_num": 4,
+        "bbox_px": "130,543,1620,1340",
+        "block_type": "table_header"
+      },
+      "0x004A": {
+        "content": "<tr><td>PROCEDURE NUMBER AND TYPE OF SERVICE</td><td>SUBMITTED FEE ($)</td><td>ACCEPTED FEE ($)</td><td>MAXIMUM CONTRACT ALLOWANCE ($)</td><td>AMOUNT APPLIED TO DEDUCTIBLE ($)</td><td>PAID BY ANOTHER PLAN ($)</td><td>CONTRACT BENEFIT LEVEL</td><td>PATIENT PAYS ($)</td><td>DELTA DENTAL PAYS ($)</td></tr>",
+        "page_num": 4,
+        "bbox_px": "170,582,1584,606",
+        "block_type": "table_row"
+      },
+      "0x004B": {
+        "content": "<tr><td>Date of service: November 5, 2025Treatment type: Restorative(D2392) RESIN-BASED COMPOSITE - TWO SURFACES, POSTERIOR TOOTHTooth: 02 Surface(s): M, O</td><td>238.00</td><td>108.00</td><td>108.00</td><td>0.00</td><td>--</td><td>80%</td><td>21.60</td><td>86.40</td></tr>",
+        "page_num": 4,
+        "bbox_px": "170,605,1584,653",
+        "block_type": "table_row"
+      },
+      "0x004C": {
+        "content": "<tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 4,
+        "bbox_px": "170,658,1584,715",
+        "block_type": "table_row"
+      },
+      "0x004D": {
+        "content": "<tr><td>Date of service: November 5, 2025Treatment type: Restorative(D2392) RESIN-BASED COMPOSITE - TWO SURFACES, POSTERIOR TOOTHTooth: 15 Surface(s): L, O</td><td>238.00</td><td>108.00</td><td>108.00</td><td>0.00</td><td>--</td><td>80%</td><td>21.60</td><td>86.40</td></tr>",
+        "page_num": 4,
+        "bbox_px": "169,723,1584,776",
+        "block_type": "table_row"
+      },
+      "0x004E": {
+        "content": "<tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 4,
+        "bbox_px": "169,770,1585,847",
+        "block_type": "table_row"
+      },
+      "0x004F": {
+        "content": "<tr><td>Claim total for BRYAN BLEAK</td><td>476.00</td><td>216.00</td><td>216.00</td><td>0.00</td><td>0.00</td><td></td><td>43.20</td><td>172.80</td></tr>",
+        "page_num": 4,
+        "bbox_px": "168,830,1585,905",
+        "block_type": "table_row"
+      },
+      "0x0050": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 4,
+        "bbox_px": "168,883,1585,939",
+        "block_type": "table_row"
+      },
+      "0x0051": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 4,
+        "bbox_px": "169,930,1585,1007",
+        "block_type": "table_row"
+      },
+      "0x0052": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 4,
+        "bbox_px": "169,987,1585,1057",
+        "block_type": "table_row"
+      },
+      "0x0053": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 4,
+        "bbox_px": "169,1050,1585,1128",
+        "block_type": "table_row"
+      },
+      "0x0054": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 4,
+        "bbox_px": "169,1130,1585,1179",
+        "block_type": "table_row"
+      },
+      "0x0055": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 4,
+        "bbox_px": "169,1180,1585,1242",
+        "block_type": "table_row"
+      },
+      "0x0056": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 4,
+        "bbox_px": "170,1221,1586,1255",
+        "block_type": "table_row"
+      },
+      "0x0057": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 4,
+        "bbox_px": "170,1257,1585,1293",
+        "block_type": "table_row"
+      },
+      "0x0058": {
+        "content": "</table>",
+        "page_num": 4,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0059": {
+        "content": "# 2 Claim number: 20253106136415",
+        "page_num": 4,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x005A": {
+        "content": "<table>\n  <tr>\n    <th>PROCEDURE NUMBER AND TYPE OF SERVICE</th>\n    <th>SUBMITTED FEE ($)</th>\n    <th>ACCEPTED FEE ($)</th>\n    <th>MAXIMUM CONTRACT ALLOWANCE ($)</th>\n    <th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th>\n    <th>PAID BY ANOTHER PLAN ($)</th>\n    <th>CONTRACT BENEFIT LEVEL</th>\n    <th>PATIENT PAYS ($)</th>\n    <th>DELTA DENTAL PAYS ($)</th>\n  </tr>\n  <tr>\n    <td>Date of service: November 5, 2025<br>Treatment type: Diagnostic<br>(D0120) PERIODIC ORAL EVALUATION - ESTABLISHED PATIENT</td>\n    <td>72.00</td>\n    <td>25.00</td>\n    <td>25.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>25.00</td>\n    <td>0.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>\u25b6 NOTE: (777) This service has exceeded the program's frequency limitation within a calendar year. Therefore, the patient is responsible for the amount indicated as \"Patient Pays.\" You may use our online Provider Tools for eligibility and benefits information, including remaining maximums and deductibles.</td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>Date of service: November 5, 2025<br>Treatment type: Preventative<br>(D1110) PROPHYLAXIS (CLEANING) - ADULT</td>\n    <td>105.00</td>\n    <td>52.00</td>\n    <td>52.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>52.00</td>\n  </tr>\n  <tr>\n    <td>Treating provider: JAMES B BONNY</td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td><b>Claim total for BRYAN BLEAK</b></td>\n    <td>177.00</td>\n    <td>77.00</td>\n    <td>77.00</td>\n    <td>0.00</td>\n    <td>0.00</td>\n    <td></td>\n    <td>25.00</td>\n    <td>52.00</td>\n  </tr>\n</table>",
+        "page_num": 4,
+        "bbox_px": null,
+        "block_type": "table_raw"
+      },
+      "0x005B": {
+        "content": "Patient: JOEY FACKRELL Relationship: Primary Member Date of birth: July 30, 1999 Group name: CRH AMERICAS, INC. Group number: 16112-30000",
+        "page_num": 4,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x005C": {
+        "content": "Primary member: JOEY FACKRELL Member ID numbers: 1240614759-01",
+        "page_num": 4,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x005D": {
+        "content": "# 1 Claim number: 20253076094639",
+        "page_num": 4,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x005E": {
+        "content": "Your claims statement Date: November 12, 2025",
+        "page_num": 5,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x005F": {
+        "content": "Patient: JOEY FACKRELL (continued)",
+        "page_num": 5,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0060": {
+        "content": "<table>",
+        "page_num": 5,
+        "bbox_px": "125,387,1622,1802",
+        "block_type": "table_start"
+      },
+      "0x0061": {
+        "content": "<tr><th>PROCEDURE NUMBER AND TYPE OF SERVICE</th><th>SUBMITTED FEE ($)</th><th>ACCEPTED FEE ($)</th><th>MAXIMUM ALLOWANCE ($)</th><th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th><th>PAID BY MEDICAL PLAN ($)</th><th>CONTRACT SAVINGS LEVEL</th><th>PATIENT PAYS ($)</th><th>DELTA DENTAL PAYS ($)</th></tr>",
+        "page_num": 5,
+        "bbox_px": "125,387,1622,1802",
+        "block_type": "table_header"
+      },
+      "0x0062": {
+        "content": "<tr><td>PROCEDURE NUMBER AND TYPE OF SERVICE</td><td>SUBMITTED FEE ($)</td><td>ACCEPTED FEE ($)</td><td>MAXIMUM CONTRACT ALLOWANCE ($)</td><td>AMOUNT APPLIED TO DEDUCTIBLE ($)</td><td>PAID BY ANOTHER PLAN ($)</td><td>CONTRACT BENEFIT LEVEL</td><td>PATIENT PAYS ($)</td><td>DELTA DENTAL PAYS ($)</td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,447,1584,500",
+        "block_type": "table_row"
+      },
+      "0x0063": {
+        "content": "<tr><td>Date of service: October 28, 2025Treatment type: Diagnostic(D0220) INTRAORAL - PERIAPICAL FIRST RADIOGRAPHIC IMAGE</td><td>31.00</td><td>14.00</td><td>14.00</td><td>0.00</td><td>--</td><td>100%</td><td>0.00</td><td>14.00</td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,506,1583,568",
+        "block_type": "table_row"
+      },
+      "0x0064": {
+        "content": "<tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,555,1583,613",
+        "block_type": "table_row"
+      },
+      "0x0065": {
+        "content": "<tr><td>Date of service: October 28, 2025Treatment type: Diagnostic(D0230) INTRAORAL - PERIAPICAL EACH ADDITIONAL RADIOGRAPHIC IMAGE</td><td>26.00</td><td>13.00</td><td>13.00</td><td>0.00</td><td>--</td><td>100%</td><td>0.00</td><td>13.00</td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,605,1583,670",
+        "block_type": "table_row"
+      },
+      "0x0066": {
+        "content": "<tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "159,652,1582,711",
+        "block_type": "table_row"
+      },
+      "0x0067": {
+        "content": "<tr><td>Date of service: October 28, 2025Treatment type: Diagnostic(D0274) BITEWINGS - FOUR RADIOGRAPHIC IMAGES</td><td>80.00</td><td>31.00</td><td>31.00</td><td>0.00</td><td>--</td><td>100%</td><td>0.00</td><td>31.00</td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,674,1583,721",
+        "block_type": "table_row"
+      },
+      "0x0068": {
+        "content": "<tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "159,714,1582,782",
+        "block_type": "table_row"
+      },
+      "0x0069": {
+        "content": "<tr><td>Date of service: October 28, 2025Treatment type: Diagnostic(D0150) COMPREHENSIVE ORAL EVALUATION - NEW OR ESTABLISHED PATIENT</td><td>86.00</td><td>40.00</td><td>40.00</td><td>0.00</td><td>--</td><td>100%</td><td>0.00</td><td>40.00</td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,733,1583,807",
+        "block_type": "table_row"
+      },
+      "0x006A": {
+        "content": "<tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,772,1583,843",
+        "block_type": "table_row"
+      },
+      "0x006B": {
+        "content": "<tr><td>Claim total for JOEY FACKRELL</td><td>223.00</td><td>98.00</td><td>98.00</td><td>0.00</td><td>0.00</td><td></td><td>0.00</td><td>98.00</td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,791,1584,878",
+        "block_type": "table_row"
+      },
+      "0x006C": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,833,1584,967",
+        "block_type": "table_row"
+      },
+      "0x006D": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,893,1583,987",
+        "block_type": "table_row"
+      },
+      "0x006E": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,967,1584,1028",
+        "block_type": "table_row"
+      },
+      "0x006F": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "159,1006,1583,1053",
+        "block_type": "table_row"
+      },
+      "0x0070": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,1039,1584,1092",
+        "block_type": "table_row"
+      },
+      "0x0071": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,1135,1584,1196",
+        "block_type": "table_row"
+      },
+      "0x0072": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,1139,1583,1251",
+        "block_type": "table_row"
+      },
+      "0x0073": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,1234,1583,1423",
+        "block_type": "table_row"
+      },
+      "0x0074": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "157,1423,1583,1493",
+        "block_type": "table_row"
+      },
+      "0x0075": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "157,1493,1583,1556",
+        "block_type": "table_row"
+      },
+      "0x0076": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,1552,1583,1599",
+        "block_type": "table_row"
+      },
+      "0x0077": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "158,1597,1582,1652",
+        "block_type": "table_row"
+      },
+      "0x0078": {
+        "content": "<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 5,
+        "bbox_px": "159,1656,1582,1700",
+        "block_type": "table_row"
+      },
+      "0x0079": {
+        "content": "</table>",
+        "page_num": 5,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x007A": {
+        "content": "Patient: AMANDA M HARPER Relationship: Spouse Primary member: TODD HARPER Date of birth: September 3, 1986 Member ID numbers: 1251758229-02 Group name: QUALTRICS, LLC Group number: 21307-00001",
+        "page_num": 5,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x007B": {
+        "content": "#1 Claim number: 20253076092157",
+        "page_num": 5,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x007C": {
+        "content": "<table>\n  <tr>\n    <th>PROCEDURE NUMBER AND TYPE OF SERVICE</th>\n    <th>SUBMITTED FEE ($)</th>\n    <th>ACCEPTED FEE ($)</th>\n    <th>MAXIMUM CONTRACT ALLOWANCE ($)</th>\n    <th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th>\n    <th>PAID BY ANOTHER PLAN ($)</th>\n    <th>CONTRACT BENEFIT LEVEL</th>\n    <th>PATIENT PAYS ($)</th>\n    <th>DELTA DENTAL PAYS ($)</th>\n  </tr>\n  <tr>\n    <td>Date of service: October 24, 2025<br>Treatment type: Diagnostic<br>(D0120) PERIODIC ORAL EVALUATION - ESTABLISHED PATIENT</td>\n    <td>72.00</td>\n    <td>25.00</td>\n    <td>25.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>25.00</td>\n  </tr>\n  <tr>\n    <td colspan=\"9\">Treating provider: JAMES B BONNY</td>\n  </tr>\n  <tr>\n    <td>Date of service: October 24, 2025<br>Treatment type: Preventive<br>(D1110) PROPHYLAXIS (CLEANING) - ADULT</td>\n    <td>105.00</td>\n    <td>52.00</td>\n    <td>52.00</td>\n    <td>0.00</td>\n    <td>--</td>\n    <td>100%</td>\n    <td>0.00</td>\n    <td>52.00</td>\n  </tr>\n  <tr>\n    <td colspan=\"9\">Treating provider: JAMES B BONNY</td>\n  </tr>\n</table>",
+        "page_num": 5,
+        "bbox_px": null,
+        "block_type": "table_raw"
+      },
+      "0x007D": {
+        "content": "Patient: AMANDA M HARPER (continued)",
+        "page_num": 6,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x007E": {
+        "content": "Date of service: October 24, 2025 Treatment type: Diagnostic (D0274) BITEWINGS - FOUR RADIOGRAPHIC IMAGES 80.00 31.00 31.00 0.00 -- 100% 0.00 31.00 Treating provider: JAMES B BONNY",
+        "page_num": 6,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x007F": {
+        "content": "Date of service: October 24, 2025 Treatment type: Diagnostic (D0220) INTRAORAL - PERIAPICAL FIRST RADIOGRAPHIC IMAGE 31.00 14.00 14.00 0.00 -- 100% 0.00 14.00 Treating provider: JAMES B BONNY",
+        "page_num": 6,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0080": {
+        "content": "Date of service: October 24, 2025 Treatment type: Diagnostic (D0230) INTRAORAL - PERIAPICAL EACH ADDITIONAL RADIOGRAPHIC IMAGE 26.00 13.00 13.00 0.00 -- 100% 0.00 13.00 Treating provider: JAMES B BONNY",
+        "page_num": 6,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0081": {
+        "content": "Date of service: October 24, 2025 Treatment type: Preventative (D1208) TOPICAL APPLICATION OF FLUORIDE - EXCLUDING VARNISH 62.00 18.00 18.00 0.00 -- 100% 0.00 18.00 Treating provider: JAMES B BONNY",
+        "page_num": 6,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0082": {
+        "content": "Claim total for AMANDA M HARPER 376.00 153.00 153.00 0.00 0.00 0.00 153.00",
+        "page_num": 6,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0083": {
+        "content": "Patient: BRIANNA PRINSTER Relationship: Spouse Date of birth: June 13, 1995 Group name: UTAH COUNTY GOVERNMENT Group number: 22569-00001 Primary member: GABRIELA A PRINSTER Member ID numbers: 1241810667-02",
+        "page_num": 6,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0084": {
+        "content": "#1 Claim number: 20253076114298",
+        "page_num": 6,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0085": {
+        "content": "Date of service: October 30, 2025 Treatment type: Diagnostic (D0150) COMPREHENSIVE ORAL EVALUATION - NEW OR ESTABLISHED PATIENT 86.00 40.00 40.00 0.00 -- 100% 40.00 0.00 Treating provider: JAMES B BONNY",
+        "page_num": 6,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0086": {
+        "content": "\u25b6 NOTE: (777) This service has exceeded the program's frequency limitation within a calendar year. Therefore, the patient is responsible for the amount indicated as \"Patient Pays.\" You may use our online Provider Tools for eligibility and benefits information, including remaining maximums and deductibles.",
+        "page_num": 6,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0087": {
+        "content": "Date of service: October 30, 2025 Treatment type: Diagnostic (D0274) BITEWINGS - FOUR RADIOGRAPHIC IMAGES 80.00 31.00 31.00 0.00 -- 100% 31.00 0.00 Treating provider: JAMES B BONNY",
+        "page_num": 6,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0088": {
+        "content": "\u25b6 NOTE: (777) This service has exceeded the program's frequency limitation within a calendar year. Therefore, the patient is responsible for the amount indicated as \"Patient Pays.\" You may use our online Provider Tools for eligibility and benefits information, including remaining maximums and deductibles.",
+        "page_num": 6,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0089": {
+        "content": "Your claims statement Date: November 12, 2025",
+        "page_num": 7,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x008A": {
+        "content": "Patient: BRIANNA PRINSTER (continued)",
+        "page_num": 7,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x008B": {
+        "content": "<table>",
+        "page_num": 7,
+        "bbox_px": "127,378,1624,587",
+        "block_type": "table_start"
+      },
+      "0x008C": {
+        "content": "<tr><th>PROCEDURE NUMBER AND TYPE OF SERVICE</th><th>SUBMITTED FEE ($)</th><th>ACCEPTED FEE ($)</th><th>MAXIMUM ALLOWANCE ($)</th><th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th><th>PAID BY MEDICAL PLAN ($)</th><th>CONTRACT SAVINGS LEVEL</th><th>PATIENT PAYS ($)</th><th>DELTA DENTAL PAYS ($)</th></tr>",
+        "page_num": 7,
+        "bbox_px": "127,378,1624,587",
+        "block_type": "table_header"
+      },
+      "0x008D": {
+        "content": "<tr><td>PROCEDURE NUMBER AND TYPE OF SERVICE</td><td>SUBMITTED FEE ($)</td><td>ACCEPTED FEE ($)</td><td>MAXIMUM CONTRACT ALLOWANCE ($)</td><td>AMOUNT APPLIED TO DEDUCTIBLE ($)</td><td>PAID BY ANOTHER PLAN ($)</td><td>CONTRACT BENEFIT LEVEL</td><td>PATIENT PAYS ($)</td><td>DELTA DENTAL PAYS ($)</td></tr>",
+        "page_num": 7,
+        "bbox_px": "185,407,1562,455",
+        "block_type": "table_row"
+      },
+      "0x008E": {
+        "content": "<tr><td>Date of service: October 30, 2025Treatment type: Preventative(D1110) PROPHYLAXIS (CLEANING) - ADULT</td><td>105.00</td><td>52.00</td><td>52.00</td><td>0.00</td><td>--</td><td>100%</td><td>0.00</td><td>52.00</td></tr>",
+        "page_num": 7,
+        "bbox_px": "185,454,1562,483",
+        "block_type": "table_row"
+      },
+      "0x008F": {
+        "content": "<tr><td>Treating provider: JAMES B BONNY</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>",
+        "page_num": 7,
+        "bbox_px": "184,481,1563,509",
+        "block_type": "table_row"
+      },
+      "0x0090": {
+        "content": "<tr><td>Claim total for BRIANNA PRINSTER</td><td>271.00</td><td>123.00</td><td>123.00</td><td>0.00</td><td>0.00</td><td></td><td>71.00</td><td>52.00</td></tr>",
+        "page_num": 7,
+        "bbox_px": "185,511,1562,537",
+        "block_type": "table_row"
+      },
+      "0x0091": {
+        "content": "</table>",
+        "page_num": 7,
+        "bbox_px": null,
+        "block_type": "table_end"
+      },
+      "0x0092": {
+        "content": "Delta Dental takes fraud seriously. Learn how you can protect your practice from fraud at deltadentalins.com/dentists.",
+        "page_num": 7,
+        "bbox_px": null,
+        "block_type": "text"
+      },
+      "0x0093": {
+        "content": "<table>",
+        "page_num": 8,
+        "bbox_px": "312,639,1187,2030",
+        "block_type": "table_start"
+      },
+      "0x0094": {
+        "content": "<tr><th>PROCEDURE NUMBER AND TYPE OF SERVICE</th><th>SUBMITTED FEE ($)</th><th>ACCEPTED FEE ($)</th><th>MAXIMUM ALLOWANCE ($)</th><th>AMOUNT APPLIED TO DEDUCTIBLE ($)</th><th>PAID BY MEDICAL PLAN ($)</th><th>CONTRACT SAVINGS LEVEL</th><th>PATIENT PAYS ($)</th><th>DELTA DENTAL PAYS ($)</th></tr>",
+        "page_num": 8,
+        "bbox_px": "312,639,1187,2030",
+        "block_type": "table_header"
+      },
+      "0x0095": {
+        "content": "<tr><td></td><td></td></tr>",
+        "page_num": 8,
+        "bbox_px": "417,730,1067,781",
+        "block_type": "table_row"
+      },
+      "0x0096": {
+        "content": "<tr><td></td><td></td></tr>",
+        "page_num": 8,
+        "bbox_px": "424,735,1060,794",
+        "block_type": "table_row"
+      },
+      "0x0097": {
+        "content": "<tr><td></td><td></td></tr>",
+        "page_num": 8,
+        "bbox_px": "428,881,1059,967",
+        "block_type": "table_row"
+      },
+      "0x0098": {
+        "content": "<tr><td></td><td></td></tr>",
+        "page_num": 8,
+        "bbox_px": "431,944,1057,1030",
+        "block_type": "table_row"
+      },
+      "0x0099": {
+        "content": "<tr><td></td><td></td></tr>",
+        "page_num": 8,
+        "bbox_px": "427,999,1062,1081",
+        "block_type": "table_row"
+      },
+      "0x009A": {
+        "content": "<tr><td></td><td></td></tr>",
+        "page_num": 8,
+        "bbox_px": "426,1023,1060,1112",
+        "block_type": "table_row"
+      },
+      "0x009B": {
+        "content": "<tr><td></td><td></td></tr>",
+        "page_num": 8,
+        "bbox_px": "429,1036,1059,1119",
+        "block_type": "table_row"
+      },
+      "0x009C": {
+        "content": "<tr><td></td><td></td></tr>",
+        "page_num": 8,
+        "bbox_px": "425,1039,1062,1117",
+        "block_type": "table_row"
+      },
+      "0x009D": {
+        "content": "<tr><td></td><td></td></tr>",
+        "page_num": 8,
+        "bbox_px": "426,1046,1062,1129",
+        "block_type": "table_row"
+      },
+      "0x009E": {
+        "content": "<tr><td></td><td></td></tr>",
+        "page_num": 8,
+        "bbox_px": "427,1112,1061,1194",
+        "block_type": "table_row"
+      },
+      "0x009F": {
+        "content": "<tr><td></td><td></td></tr>",
+        "page_num": 8,
+        "bbox_px": "423,1115,1063,1197",
+        "block_type": "table_row"
+      },
+      "0x00A0": {
+        "content": "<tr><td></td><td></td></tr>",
+        "page_num": 8,
+        "bbox_px": "426,1160,1061,1239",
+        "block_type": "table_row"
+      },
+      "0x00A1": {
+        "content": "<tr><td></td><td></td></tr>",
+        "page_num": 8,
+        "bbox_px": "440,1761,1050,1845",
+        "block_type": "table_row"
+      },
+      "0x00A2": {
+        "content": "</table>",
+        "page_num": 8,
+        "bbox_px": null,
+        "block_type": "table_end"
+      }
+    },
+    "alerts": [],
+    "confidence": 0.0,
+    "error": null
+}

@@ -13,6 +13,7 @@ FIXTURES_DIR = Path("fixtures")
 TEDS_WEIGHT = 0.70
 TEXT_WEIGHT = 0.30
 ALERT_THRESHOLD = 0.85  # Flag anything below this
+TABLES_ONLY = True  # Set to True to score only tables, ignoring text
 
 
 def extract_tables(md: str) -> list[str]:
@@ -38,7 +39,12 @@ def score_page(pred_md: str, gt_md: str, tables_meta: dict) -> dict:
 
     for i, (pred_t, gt_t) in enumerate(zip(pred_tables, gt_tables)):
         score = teds.evaluate(pred_t, gt_t)
-        expected_cols = tables_meta["tables"][i]["column_count"] if i < len(tables_meta["tables"]) else None
+        # Support both column_count and cols field names
+        if i < len(tables_meta["tables"]):
+            table_info = tables_meta["tables"][i]
+            expected_cols = table_info.get("column_count") or table_info.get("cols")
+        else:
+            expected_cols = None
         table_scores.append({
             "table_idx": i,
             "teds_score": score,
@@ -50,13 +56,25 @@ def score_page(pred_md: str, gt_md: str, tables_meta: dict) -> dict:
     struct_scores = [teds_struct.evaluate(p, g) for p, g in zip(pred_tables, gt_tables)]
 
     # Text similarity
-    pred_prose = extract_prose(pred_md)
-    gt_prose = extract_prose(gt_md)
-    text_score = ratio(pred_prose, gt_prose)
+    if TABLES_ONLY:
+        # Skip text scoring when in tables-only mode
+        text_score = 0.0
+        pred_prose = ""
+        gt_prose = ""
+    else:
+        pred_prose = extract_prose(pred_md)
+        gt_prose = extract_prose(gt_md)
+        text_score = ratio(pred_prose, gt_prose)
 
     # Weighted composite
     avg_teds = sum(t["teds_score"] for t in table_scores) / len(table_scores) if table_scores else 1.0
-    composite = (avg_teds * TEDS_WEIGHT) + (text_score * TEXT_WEIGHT)
+
+    if TABLES_ONLY:
+        # In tables-only mode, composite = TEDS score only
+        composite = avg_teds
+    else:
+        # Normal mode: weighted combination
+        composite = (avg_teds * TEDS_WEIGHT) + (text_score * TEXT_WEIGHT)
 
     return {
         "table_scores": table_scores,
@@ -87,10 +105,18 @@ def run_benchmark(model_output_dir: Path) -> dict:
             continue
 
         eob_id = fixture_dir.name
+
+        # Check if model has output for this fixture
+        model_eob_dir = model_output_dir / eob_id / "pages"
+        if not model_eob_dir.exists():
+            print(f"Skipping {fixture_dir.name} (no model output found)")
+            continue
+
         eob_results = {"pages": [], "alerts": []}
 
         for page_md in sorted((fixture_dir / "pages").glob("page_*.md")):
-            if "_tables" in page_md.name:
+            # Skip metadata files
+            if "_tables" in page_md.name or "_ground_truth" in page_md.name:
                 continue
 
             page_name = page_md.stem
@@ -101,7 +127,11 @@ def run_benchmark(model_output_dir: Path) -> dict:
             except UnicodeDecodeError:
                 gt_md = page_md.read_text(encoding='latin-1')
 
+            # Support both _tables.json and _ground_truth.json naming
             tables_json = page_md.with_name(f"{page_name}_tables.json")
+            if not tables_json.exists():
+                tables_json = page_md.with_name(f"{page_name}_ground_truth.json")
+
             if tables_json.exists():
                 try:
                     tables_meta = json.loads(tables_json.read_text(encoding='utf-8'))
@@ -183,6 +213,8 @@ def print_report(results: dict, model_name: str):
     """Print human-readable benchmark report."""
     print(f"\n{'='*60}")
     print(f"BENCHMARK REPORT: {model_name}")
+    if TABLES_ONLY:
+        print(f"MODE: Tables Only (text scoring disabled)")
     print(f"{'='*60}\n")
 
     all_composites = []
